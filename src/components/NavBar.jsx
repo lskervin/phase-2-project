@@ -2,9 +2,10 @@ import React from 'react'
 import GameForm from './GameForm'
 import { Link } from 'react-router-dom';
 
+
 function NavBar() {
   return (
-    <div class="side-menu">
+    <div className="side-menu">
       <ul>
         <li>
           <GameForm />  
