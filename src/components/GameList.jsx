@@ -3,10 +3,13 @@ import GameCard from './GameCard'
 import { useOutletContext } from 'react-router-dom'
 import GenreFilter from './GenreFilter'
 
+
 function GameList() {
   
   const {gameList}=useOutletContext() 
+  // const {setGamesList}=useOutletContext()
   console.log(gameList)
+
 
   return (
     <div className='game-list-container'>
