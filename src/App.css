@@ -1,12 +1,136 @@
+.container {
+  display: flex;
+}
+
 .side-menu-container {
-  width: 250px; /* Adjust the width as needed */
+  width: 40%; /* Adjust the width as needed */
   height: 100vh; /* Set the height to cover the entire viewport */
   background-color: #f0f0f0; /* Set the background color */
-  float: left; /* Float the side menu to the left */
+  margin-top: 70px;
+}
+
+.bottom-component { 
+  display: flex; /* Use flexbox */
+  flex-direction: column; /* Align items vertically */
+  margin-left: 0; /* Set the left margin to accommodate the side menu */
+  align-items: center; /* Center items horizontally */
+  z-index: 0; /* Set a lower z-index to ensure it appears below other elements */
+}
+
+.game-list {
+  display: grid;
+  grid-template-columns: repeat(5, 1fr); /* 4 columns with equal width */
+  gap: 20px; /* spacing between items */
+  width: calc(100% - 250px); /* Adjust width to fill remaining space */
+  justify-content: center; /* center the grid horizontally */
+  padding-bottom: 10px;
+  margin-top: 130px; /* Adjust margin as needed */
+  align-content: center;
+}
+
+.genre-filter-container {
+  background-color: #000000;
+  display: flex;
+  padding: 10px;
+  position: absolute;
+  width: 100%;
+  top: 90px; /* Adjust position as needed */
+  z-index: 2; /* Set a higher z-index to ensure it appears above other elements */
+}
+
+.genre-filter-container ul {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+}
+
+.genre-filter-container ul li {
+  margin-right: 10px; /* Adjust spacing between list items */
+}
+
+.genre-filter-container ul li button {
+  margin-right: 10px; /* Adjust spacing between list items */
+  background-color: #000000;
+  color: #f0f0f0;
+}
+
+.header-container {
+  position: absolute;
+  width:calc(100% - 0px);;
+  padding-bottom: 80px;
+  display: block;
+  background-color: blueviolet;
+  height: 0px;;
+  z-index: 3; /* Set a higher z-index to ensure it appears above other elements */
+}
+.user-container{
+  position: relative;
+  margin-left: 1425px;
+  margin-top: -95px;
+  height: auto;
+  width: fit-content;
+}
+
+.logo img{
+  height:min-content;
+  width: 50px;
+
+}
+.genre-filter-container {
+  background-color: #000000;
+  display: flex;
+  padding: 10px;
+  position: absolute;
+  width: calc(100% - 250px); /* Adjust width to fill remaining space */
+  top: 90px; /* Adjust position as needed */
+  z-index: 2; /* Set a higher z-index to ensure it appears above other elements */
+}
+
+.genre-filter-container ul {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  width: 100%; /* Make the ul element fill the entire width */
+}
+
+.genre-filter-container ul li {
+  margin-right: 10px; /* Adjust spacing between list items */
+}
+
+.genre-filter-container ul li button {
+  margin-right: 10px; /* Adjust spacing between list items */
+  background-color: #000000;
+  color: #f0f0f0;
 }
 
 .bottom-component {
-  margin-left: 250px; /* Set the left margin to accommodate the side menu */
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: calc(100% - 250px); /* Adjust width to fill remaining space */
+  margin-left: 250px; /* Adjust margin to accommodate the side menu */
+}
+
+.game-list {
+  display: grid;
+  grid-template-columns: repeat(5, 1fr); /* 5 columns with equal width */
+  gap: 20px; /* spacing between items */
+  width: 100%;
+  justify-content: center;
+  padding-bottom: 10px;
+  margin-top: 130px; /* Adjust margin as needed */
+  align-content: center;
+}
+
+.side-menu-container {
+  width: 250px; /* Adjust the width as needed */
+  height: 100vh;
+  background-color: #f0f0f0;
+  position: fixed;
+  top: 0;
+  left: 0;
 }
 
 .show-form {

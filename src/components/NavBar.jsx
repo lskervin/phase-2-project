@@ -2,6 +2,7 @@ import React, { useState } from 'react'
 import GameForm from './GameForm'
 import { Link } from 'react-router-dom';
 
+
 function NavBar() {
   const [showForm, setShowForm] = useState()
 

@@ -4,22 +4,29 @@ import GameList from './components/GameList'
 import NavBar from './components/NavBar'
 import { Outlet } from 'react-router-dom'
 import Header from './components/Header'
+import { useState, useEffect } from 'react';
 
 function App() {
-
+  const [games, setGames] = useState([])
   const [search, setSearch] = useState("")
   console.log(search)
+  useEffect(()=>{
+    fetch('http://localhost:3000/games')
+    .then((res)=>res.json())
+    .then((data)=>setGames(data))
+  },[])
 
-
-  const text = "hello"
+  const gameList = games
   return(
-      <div>
+      <div className='container'>
         <aside className="side-menu-container">
           <NavBar />
         </aside>
-        < Header setSearch={setSearch}/>
+        <div className='header-container'>
+          < Header setSearch={setSearch}/>
+        </div>
         <main className="bottom-component">
-          <Outlet context={{text}}/>
+          <Outlet context={{gameList}} />
         </main>
       </div>
   )
