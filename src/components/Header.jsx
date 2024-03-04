@@ -4,8 +4,17 @@ import Search from './Search'
 
 function Header() {
   return (
-    <div>Header</div>
-  )
+    <nav className="menu">
+    <div className='header'>Header</div>
+  <button>
+    <span className="profile-logo" role="img" aria-label="user">
+      👤
+    </span>
+    <span className="profile-menu">username</span>
+  </button>
+</nav>
+);
 }
+    
 
 export default Header

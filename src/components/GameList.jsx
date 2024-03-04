@@ -11,7 +11,7 @@ function GameList() {
 
   
   return (
-    <div>GameList</div>
+    <div className="game-list">GameList</div>
   )
 }
 
