@@ -8,9 +8,6 @@ function GameList() {
   const {gameList}=useOutletContext() 
   console.log(gameList)
 
-
-
-  
   return (
     <div className='game-list-container'>
       <GenreFilter/>

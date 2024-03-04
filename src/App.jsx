@@ -1,4 +1,4 @@
-import React from 'react'
+import React, { useState } from 'react'
 import './App.css'
 import GameList from './components/GameList'
 import NavBar from './components/NavBar'
@@ -8,7 +8,8 @@ import { useState, useEffect } from 'react';
 
 function App() {
   const [games, setGames] = useState([])
-
+  const [search, setSearch] = useState("")
+  console.log(search)
   useEffect(()=>{
     fetch('http://localhost:3000/games')
     .then((res)=>res.json())
@@ -22,7 +23,7 @@ function App() {
           <NavBar />
         </aside>
         <div className='header-container'>
-          < Header/>
+          < Header setSearch={setSearch}/>
         </div>
         <main className="bottom-component">
           <Outlet context={{gameList}} />

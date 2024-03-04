@@ -3,10 +3,11 @@ import GenreFilter from './GenreFilter'
 import Search from './Search'
 import Logo from './Logo'
 
-function Header() {
+function Header({ setSearch }) {
   return (
 <nav className="menu">
   <div className='header'><Logo/></div>
+    <Search setSearch={setSearch}/>
   <div className="user-container">
     <div className="button-container">
       <button>
