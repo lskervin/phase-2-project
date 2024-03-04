@@ -7,10 +7,10 @@ function Search({ setSearch }) {
   }
   
   return (
-    <div>
+    <div className='search'>
       <input 
         style={{
-          width: "200px",
+          width: "1000px",
           height: "20px",
           borderColor: "black",
           padding: "10px",
