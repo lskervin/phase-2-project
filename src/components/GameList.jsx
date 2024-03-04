@@ -8,9 +8,7 @@ function GameList() {
   console.log(text)
 
   return (
-    <main className="body">
-      <div className="game-list">GameList</div>
-    </main>
+    <div className="game-list">GameList</div>
   )
 }
 

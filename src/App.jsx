@@ -1,18 +1,26 @@
-import React from 'react'
+import React, { useState } from 'react'
 import './App.css'
 import GameList from './components/GameList'
-import Header from './components/Header'
 import NavBar from './components/NavBar'
 import { Outlet } from 'react-router-dom'
+import Header from './components/Header'
 
 function App() {
 
+  const [search, setSearch] = useState("")
+  console.log(search)
+
+
   const text = "hello"
   return(
-      <div className="container">
-        <Header />
-        <NavBar />
-        <Outlet context={{text}}/>
+      <div>
+        <aside className="side-menu-container">
+          <NavBar />
+        </aside>
+        < Header setSearch={setSearch}/>
+        <main className="bottom-component">
+          <Outlet context={{text}}/>
+        </main>
       </div>
   )
 }

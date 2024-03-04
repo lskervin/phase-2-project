@@ -1,30 +1,16 @@
-#root {
-  max-width: 1280px;
-  margin: 0 auto;
-  padding: 2rem;
-  text-align: center;
+.side-menu-container {
+  width: 250px; /* Adjust the width as needed */
+  height: 100vh; /* Set the height to cover the entire viewport */
+  background-color: #f0f0f0; /* Set the background color */
+  float: left; /* Float the side menu to the left */
 }
 
-.body {
-  display: inline-flex;
+.bottom-component {
+  margin-left: 250px; /* Set the left margin to accommodate the side menu */
 }
 
-.side-menu, .game-list {
-  margin-top: 0;
+.show-form {
+  margin-top: 20px;
+  padding: 5px;
+  border-radius: 10px;
 }
-
-.side-menu {
-  background-color: red;
-}
-
-.header {
-  background-color: blue;
-  position: relative;
-}
-
-.game-list {
-  background-color: green;
-  margin-top: 0;
-}
-
-
