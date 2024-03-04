@@ -1,21 +1,24 @@
 import React from 'react'
 
 function GenreFilter() {
+  function handleClick(e){
+    console.log(e.target.value)
+  }
   return (
     <div className='genre-filter-container'>
       <ul className='genre-list'>
-        <li><button>Favorites</button></li>
-        <li><button>Shooter</button></li>
-        <li><button>Battle Royale</button></li>
-        <li><button>Strategy</button></li>
-        <li><button>MMORPG</button></li>
-        <li><button>Fighting</button></li>
-        <li><button>MOBA</button></li>
-        <li><button>Action Game</button></li>
-        <li><button>Card</button></li>
-        <li><button>Sports</button></li>
-        <li><button>Racing</button></li>
-        <li><button>Card Game</button></li>
+        <li><button onClick={handleClick}>Favorites</button></li>
+        <li><button onClick={handleClick}>Shooter</button></li>
+        <li><button onClick={handleClick}>Battle Royale</button></li>
+        <li><button onClick={handleClick}>Strategy</button></li>
+        <li><button onClick={handleClick}>MMORPG</button></li>
+        <li><button onClick={handleClick}>Fighting</button></li>
+        <li><button onClick={handleClick}>MOBA</button></li>
+        <li><button onClick={handleClick}>Action Game</button></li>
+        <li><button onClick={handleClick}>Card</button></li>
+        <li><button onClick={handleClick}>Sports</button></li>
+        <li><button onClick={handleClick}>Racing</button></li>
+        <li><button onClick={handleClick}>Card Game</button></li>
       </ul>
     </div>
   )
