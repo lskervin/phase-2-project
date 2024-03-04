@@ -4,9 +4,11 @@ import { Link } from 'react-router-dom';
 
 function NavBar() {
   return (
-    <nav>
-      <GameForm />
+    <div class="side-menu">
       <ul>
+        <li>
+          <GameForm />  
+        </li>
         <li>
           <Link to="/">Home</Link>
         </li>
@@ -17,7 +19,7 @@ function NavBar() {
           <Link to="/contact">Contact</Link>
         </li>
       </ul>
-    </nav>
+    </div>
   );
 };
 
