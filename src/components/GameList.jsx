@@ -7,11 +7,10 @@ function GameList() {
   const {text}=useOutletContext() 
   console.log(text)
 
-
-
-  
   return (
-    <div>GameList</div>
+    <main className="body">
+      <div className="game-list">GameList</div>
+    </main>
   )
 }
 

@@ -4,7 +4,7 @@ import Search from './Search'
 
 function Header() {
   return (
-    <div>Header</div>
+    <div className="header">Header</div>
   )
 }
 

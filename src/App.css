@@ -5,4 +5,26 @@
   text-align: center;
 }
 
+.body {
+  display: inline-flex;
+}
+
+.side-menu, .game-list {
+  margin-top: 0;
+}
+
+.side-menu {
+  background-color: red;
+}
+
+.header {
+  background-color: blue;
+  position: relative;
+}
+
+.game-list {
+  background-color: green;
+  margin-top: 0;
+}
+
 

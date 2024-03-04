@@ -9,7 +9,7 @@ function App() {
 
   const text = "hello"
   return(
-      <div>
+      <div className="container">
         <Header />
         <NavBar />
         <Outlet context={{text}}/>
