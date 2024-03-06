@@ -2,10 +2,11 @@ import React from 'react'
 import ReactDOM from 'react-dom/client'
 import App from './App.jsx'
 import './index.css'
-import { createBrowserRouter, RouterProvider } from "react-router-dom";
+import { createBrowserRouter, RouterProvider, useParams } from "react-router-dom";
 import About from "./components/About"
 import Contact from "./components/Contact"
 import GameList from './components/GameList.jsx';
+import GameForm from './components/GameForm.jsx';
 
 const Main = () => {
   const routes = createBrowserRouter([
@@ -15,7 +16,7 @@ const Main = () => {
       children: [
         {
           path: "/home",
-          element: <GameList />,
+          element: <GameList/>,
         },
         {
           path: "/",
@@ -28,6 +29,10 @@ const Main = () => {
         {
           path: "/contact",
           element: <Contact />
+        },
+        {
+          path: "/gameform",
+          element: <GameForm />
         }
       ],
     },
