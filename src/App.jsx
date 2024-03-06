@@ -1,13 +1,22 @@
 import React from 'react'
 import './App.css'
-import GameList from './components/GameList'
 import NavBar from './components/NavBar'
 import { Outlet } from 'react-router-dom'
 import Header from './components/Header'
 import { useState, useEffect } from 'react';
+// import Pagination from './components/Pagination'
+
+//paginate or pagination
 
 function App() {
   const [games, setGames] = useState([])
+  const [showmenu, setShowMenu] = useState(true)
+  // const [currentPage, setCurrentPage] = useState(1);
+  // const [recordsPerPage] = useState(5);
+  // const indexOfLastRecord = currentPage * recordsPerPage;
+  // const indexOfFirstRecord = indexOfLastRecord - recordsPerPage;
+  // const currentRecords = data.slice(indexOfFirstRecord, indexOfLastRecord);
+  // const nPages = Math.ceil(data.length / recordsPerPage)
 
   useEffect(()=>{
     fetch('http://localhost:3000/games')
@@ -20,13 +29,19 @@ function App() {
 
   return(
       <div className='container'>
-        <aside className="side-menu-container">
+        {showmenu ?<aside className="side-menu-container">
           <NavBar />
-        </aside>
+        </aside> : null}
         <div className='header-container'>
-          < Header/>
+          < Header setShowMenu={setShowMenu} showmenu={showmenu}/>
         </div>
         <main className="bottom-component">
+        {/* <Pagination
+          nPages={nPages}
+          currentPage={currentPage}
+          setCurrentPage={setCurrentPage}
+          gameList={gameList}
+        /> */}
           <Outlet context={{gameList}}/>
         </main>
       </div>
