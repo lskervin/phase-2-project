@@ -27,27 +27,31 @@ function GameForm() {
 
   return (
     <div className = "form">
+      <header>Add New Game!</header>
       <form onSubmit={handleSubmit}>
+        <label>Title:</label>
         <input
           className="form-input"
           type="text"
           placeholder="Type title here"
           onChange={(e)=>{setTitle(e.target.value)}}
           value={title}  
-        />
+        /><label>Image Url:</label>
         <input
           type="text"
           placeholder="Paste image URL here"
           onChange={(e)=>{setThumbnail(e.target.value)}}
           value={thumbnail}
         />
+        <label>Description:</label>
         <textarea
           rows="10" 
-          cols="20" 
+          cols="29" 
           placeholder="Write your description here"
           onChange={(e)=>{setDescription(e.target.value)}}
           value={description}
         ></textarea>
+        <label>Genre:</label>
         <select
           placeholder="Select genre"
           value={genre}

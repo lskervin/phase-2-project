@@ -2,11 +2,13 @@ import React from 'react'
 import ReactDOM from 'react-dom/client'
 import App from './App.jsx'
 import './index.css'
-import { createBrowserRouter, RouterProvider, useParams } from "react-router-dom";
+import { createBrowserRouter, RouterProvider} from "react-router-dom";
 import About from "./components/About"
 import Contact from "./components/Contact"
 import GameList from './components/GameList.jsx';
 import GameForm from './components/GameForm.jsx';
+import GamePlay from './components/GamePlay.jsx'
+import GameCard from './components/GameCard.jsx';
 
 const Main = () => {
   const routes = createBrowserRouter([
@@ -33,6 +35,13 @@ const Main = () => {
         {
           path: "/gameform",
           element: <GameForm />
+        },
+        { path: "/play-game/:id", 
+          element: <GamePlay />
+        }, 
+        {
+          path: "/gamecard",
+          element: <GameCard />
         }
       ],
     },
