@@ -1,13 +1,15 @@
 import React from 'react'
-import GenreFilter from './GenreFilter'
-import Search from './Search'
 import Logo from './Logo'
 
-function Header({ setSearch }) {
+
+function Header({setShowMenu, showmenu}) {
+  function showMenuBar(){
+    setShowMenu(!showmenu)
+  }
   return (
 <nav className="menu">
-  <div className='header'><Logo/></div>
-    <Search setSearch={setSearch}/>
+<div className='header' onClick={showMenuBar}><Logo/></div>
+<div className='game-sphere'>GameSphere</div>
   <div className="user-container">
     <div className="button-container">
       <button>
