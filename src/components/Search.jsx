@@ -1,6 +1,6 @@
 import React from 'react'
 
-function Search({ setSearch }) {
+function Search({ setSearch, search }) {
   
   function handleSearch(e) {
     setSearch(e.target.value)
@@ -20,6 +20,7 @@ function Search({ setSearch }) {
         placeholder="Search for a game by title"
         type="text"
         onChange={handleSearch}
+        value={search}
       ></input>
     </div>
   )

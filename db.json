@@ -11,7 +11,8 @@
         "publisher": "Activision Blizzard",
         "developer": "Blizzard Entertainment",
         "release_date": "2022-10-04",
-        "freetogame_profile_url": "https://www.freetogame.com/overwatch-2"
+        "freetogame_profile_url": "https://www.freetogame.com/overwatch-2",
+        "isFavorite": false
         },
         {
         "id": 521,
@@ -24,7 +25,8 @@
         "publisher": "Blizzard Entertainment",
         "developer": "Blizzard Entertainment",
         "release_date": "2022-06-02",
-        "freetogame_profile_url": "https://www.freetogame.com/diablo-immortal"
+        "freetogame_profile_url": "https://www.freetogame.com/diablo-immortal",
+        "isFavorite": false
         },
         {
         "id": 517,
@@ -37,7 +39,8 @@
         "publisher": "Amazon Games",
         "developer": "Smilegate RPG",
         "release_date": "2022-02-11",
-        "freetogame_profile_url": "https://www.freetogame.com/lost-ark"
+        "freetogame_profile_url": "https://www.freetogame.com/lost-ark",
+        "isFavorite": false
         },
         {
         "id": 516,
@@ -50,7 +53,8 @@
         "publisher": "KRAFTON, Inc.",
         "developer": "KRAFTON, Inc.",
         "release_date": "2022-01-12",
-        "freetogame_profile_url": "https://www.freetogame.com/pubg"
+        "freetogame_profile_url": "https://www.freetogame.com/pubg",
+        "isFavorite": false
         },
         {
         "id": 508,
@@ -63,7 +67,8 @@
         "publisher": "Gaijin Entertainment",
         "developer": "Darkflow Software",
         "release_date": "2021-04-08",
-        "freetogame_profile_url": "https://www.freetogame.com/enlisted"
+        "freetogame_profile_url": "https://www.freetogame.com/enlisted",
+        "isFavorite": false
         },
         {
         "id": 475,
@@ -76,7 +81,8 @@
         "publisher": "miHoYo",
         "developer": "miHoYo",
         "release_date": "2020-09-28",
-        "freetogame_profile_url": "https://www.freetogame.com/genshin-impact"
+        "freetogame_profile_url": "https://www.freetogame.com/genshin-impact",
+        "isFavorite": false
         },
         {
         "id": 523,
@@ -89,7 +95,8 @@
         "publisher": "Mediatonic",
         "developer": "Mediatonic",
         "release_date": "2020-08-04",
-        "freetogame_profile_url": "https://www.freetogame.com/fall-guys"
+        "freetogame_profile_url": "https://www.freetogame.com/fall-guys",
+        "isFavorite": false
         },
         {
         "id": 11,
@@ -102,7 +109,8 @@
         "publisher": "Perfect World Entertainment",
         "developer": "Cryptic Studios",
         "release_date": "2013-12-06",
-        "freetogame_profile_url": "https://www.freetogame.com/neverwinter"
+        "freetogame_profile_url": "https://www.freetogame.com/neverwinter",
+        "isFavorite": false
         },
         {
         "id": 515,
@@ -115,7 +123,8 @@
         "publisher": "Xbox Game Studios",
         "developer": "343 Industries",
         "release_date": "2021-11-15",
-        "freetogame_profile_url": "https://www.freetogame.com/halo-infinite"
+        "freetogame_profile_url": "https://www.freetogame.com/halo-infinite",
+        "isFavorite": false
         },
         {
         "id": 511,
@@ -128,7 +137,8 @@
         "publisher": "Sega",
         "developer": "Sega",
         "release_date": "2021-06-09",
-        "freetogame_profile_url": "https://www.freetogame.com/pso2-new-genesis"
+        "freetogame_profile_url": "https://www.freetogame.com/pso2-new-genesis",
+        "isFavorite": false
         },
         {
         "id": 5,
@@ -141,7 +151,8 @@
         "publisher": "Targem",
         "developer": "Gaijin",
         "release_date": "2017-05-30",
-        "freetogame_profile_url": "https://www.freetogame.com/crossout"
+        "freetogame_profile_url": "https://www.freetogame.com/crossout",
+        "isFavorite": false
         },
         {
         "id": 9,
@@ -154,7 +165,8 @@
         "publisher": "Wargaming",
         "developer": "Wargaming",
         "release_date": "2015-07-02",
-        "freetogame_profile_url": "https://www.freetogame.com/world-of-warships"
+        "freetogame_profile_url": "https://www.freetogame.com/world-of-warships",
+        "isFavorite": false
         },
         {
         "id": 12,
@@ -167,7 +179,8 @@
         "publisher": "Gaijin Entertainment",
         "developer": "Gaijin Entertainment",
         "release_date": "2013-08-15",
-        "freetogame_profile_url": "https://www.freetogame.com/war-thunder"
+        "freetogame_profile_url": "https://www.freetogame.com/war-thunder",
+        "isFavorite": false
         },
         {
         "id": 2,
@@ -180,7 +193,8 @@
         "publisher": "Wargaming",
         "developer": "Wargaming",
         "release_date": "2011-04-12",
-        "freetogame_profile_url": "https://www.freetogame.com/world-of-tanks"
+        "freetogame_profile_url": "https://www.freetogame.com/world-of-tanks",
+        "isFavorite": false
         },
         {
         "id": 560,
@@ -193,7 +207,8 @@
         "publisher": "Singularity Six",
         "developer": "Singularity Six",
         "release_date": "2023-08-10",
-        "freetogame_profile_url": "https://www.freetogame.com/palia"
+        "freetogame_profile_url": "https://www.freetogame.com/palia",
+        "isFavorite": false
         },
         {
         "id": 14,
@@ -206,7 +221,8 @@
         "publisher": "Perfect World Entertainment",
         "developer": " Cryptic Studios",
         "release_date": "2010-02-02",
-        "freetogame_profile_url": "https://www.freetogame.com/star-trek-online"
+        "freetogame_profile_url": "https://www.freetogame.com/star-trek-online",
+        "isFavorite": false
         },
         {
         "id": 529,
@@ -219,7 +235,8 @@
         "publisher": "Level Infinite",
         "developer": "Hotta Studio",
         "release_date": "2022-08-10",
-        "freetogame_profile_url": "https://www.freetogame.com/tower-of-fantasy"
+        "freetogame_profile_url": "https://www.freetogame.com/tower-of-fantasy",
+        "isFavorite": false
         },
         {
         "id": 528,
@@ -232,7 +249,8 @@
         "publisher": "Archosaur Games",
         "developer": "Archosaur Games",
         "release_date": "2022-07-28",
-        "freetogame_profile_url": "https://www.freetogame.com/noahs-heart"
+        "freetogame_profile_url": "https://www.freetogame.com/noahs-heart",
+        "isFavorite": false
         },
         {
         "id": 466,
@@ -245,7 +263,8 @@
         "publisher": "Riot Games",
         "developer": "Riot Games",
         "release_date": "2020-06-02",
-        "freetogame_profile_url": "https://www.freetogame.com/valorant"
+        "freetogame_profile_url": "https://www.freetogame.com/valorant",
+        "isFavorite": false
         },
         {
         "id": 467,
@@ -258,7 +277,8 @@
         "publisher": "SEGA",
         "developer": "SEGA",
         "release_date": "2020-05-27",
-        "freetogame_profile_url": "https://www.freetogame.com/pso2"
+        "freetogame_profile_url": "https://www.freetogame.com/pso2",
+        "isFavorite": false
         },
         {
         "id": 452,
@@ -271,7 +291,8 @@
         "publisher": "Activision",
         "developer": "Infinity Ward",
         "release_date": "2020-03-10",
-        "freetogame_profile_url": "https://www.freetogame.com/call-of-duty-warzone"
+        "freetogame_profile_url": "https://www.freetogame.com/call-of-duty-warzone",
+        "isFavorite": false
         },
         {
         "id": 21,
@@ -284,7 +305,8 @@
         "publisher": "Bungie",
         "developer": "Bungie",
         "release_date": "2019-10-01",
-        "freetogame_profile_url": "https://www.freetogame.com/destiny-2"
+        "freetogame_profile_url": "https://www.freetogame.com/destiny-2",
+        "isFavorite": false
         },
         {
         "id": 1,
@@ -297,7 +319,8 @@
         "publisher": "Phoenix Labs",
         "developer": "Phoenix Labs, Iron Galaxy",
         "release_date": "2019-05-21",
-        "freetogame_profile_url": "https://www.freetogame.com/dauntless"
+        "freetogame_profile_url": "https://www.freetogame.com/dauntless",
+        "isFavorite": false
         },
         {
         "id": 23,
@@ -310,7 +333,8 @@
         "publisher": "Electronic Arts",
         "developer": "Electronic Arts",
         "release_date": "2019-02-04",
-        "freetogame_profile_url": "https://www.freetogame.com/apex-legends"
+        "freetogame_profile_url": "https://www.freetogame.com/apex-legends",
+        "isFavorite": false
         },
         {
         "id": 57,
@@ -323,7 +347,8 @@
         "publisher": "Epic Games",
         "developer": "Epic Games",
         "release_date": "2017-09-26",
-        "freetogame_profile_url": "https://www.freetogame.com/fortnite-battle-royale"
+        "freetogame_profile_url": "https://www.freetogame.com/fortnite-battle-royale",
+        "isFavorite": false
         },
         {
         "id": 449,
@@ -336,7 +361,8 @@
         "publisher": "Sandbox Interactive GmbH",
         "developer": "Sandbox Interactive GmbH",
         "release_date": "2017-07-17",
-        "freetogame_profile_url": "https://www.freetogame.com/albion-online"
+        "freetogame_profile_url": "https://www.freetogame.com/albion-online",
+        "isFavorite": false
         },
         {
         "id": 6,
@@ -349,7 +375,8 @@
         "publisher": "NCSoft",
         "developer": "NCSoft",
         "release_date": "2016-01-19",
-        "freetogame_profile_url": "https://www.freetogame.com/blade-and-soul"
+        "freetogame_profile_url": "https://www.freetogame.com/blade-and-soul",
+        "isFavorite": false
         },
         {
         "id": 212,
@@ -362,7 +389,8 @@
         "publisher": "Blue Mammoth Games",
         "developer": "Blue Mammoth Games",
         "release_date": "2015-11-03",
-        "freetogame_profile_url": "https://www.freetogame.com/brawlhalla"
+        "freetogame_profile_url": "https://www.freetogame.com/brawlhalla",
+        "isFavorite": false
         },
         {
         "id": 8,
@@ -375,7 +403,8 @@
         "publisher": "Trion Worlds",
         "developer": "Trion Worlds",
         "release_date": "2015-07-09",
-        "freetogame_profile_url": "https://www.freetogame.com/trove"
+        "freetogame_profile_url": "https://www.freetogame.com/trove",
+        "isFavorite": false
         },
         {
         "id": 217,
@@ -388,7 +417,8 @@
         "publisher": "Hi-Rez Studios",
         "developer": "Hi-Rez Studios",
         "release_date": "2014-03-25",
-        "freetogame_profile_url": "https://www.freetogame.com/smite"
+        "freetogame_profile_url": "https://www.freetogame.com/smite",
+        "isFavorite": false
         },
         {
         "id": 3,
@@ -401,7 +431,8 @@
         "publisher": "Digital Extremes",
         "developer": "Digital Extremes",
         "release_date": "2013-03-25",
-        "freetogame_profile_url": "https://www.freetogame.com/warframe"
+        "freetogame_profile_url": "https://www.freetogame.com/warframe",
+        "isFavorite": false
         },
         {
         "id": 13,
@@ -414,7 +445,8 @@
         "publisher": "NCsoft",
         "developer": "ArenaNet",
         "release_date": "2012-08-28",
-        "freetogame_profile_url": "https://www.freetogame.com/guild-wars-2"
+        "freetogame_profile_url": "https://www.freetogame.com/guild-wars-2",
+        "isFavorite": false
         },
         {
         "id": 433,
@@ -427,7 +459,8 @@
         "publisher": "Jagex",
         "developer": "Jagex",
         "release_date": "2001-01-04",
-        "freetogame_profile_url": "https://www.freetogame.com/runescape"
+        "freetogame_profile_url": "https://www.freetogame.com/runescape",
+        "isFavorite": false
         },
         {
         "id": 572,
@@ -440,7 +473,8 @@
         "publisher": "Tavernlight Games",
         "developer": "Tavernlight Games",
         "release_date": "2024-01-16",
-        "freetogame_profile_url": "https://www.freetogame.com/ravendawn"
+        "freetogame_profile_url": "https://www.freetogame.com/ravendawn",
+        "isFavorite": false
         },
         {
         "id": 62,
@@ -453,7 +487,8 @@
         "publisher": "Valofe",
         "developer": "Valofe",
         "release_date": "2024-01-25",
-        "freetogame_profile_url": "https://www.freetogame.com/kritika"
+        "freetogame_profile_url": "https://www.freetogame.com/kritika",
+        "isFavorite": false
         },
         {
         "id": 575,
@@ -466,7 +501,8 @@
         "publisher": "Perfect World Games",
         "developer": "Crunchyroll",
         "release_date": "2024-01-31",
-        "freetogame_profile_url": "https://www.freetogame.com/one-punch-man-world"
+        "freetogame_profile_url": "https://www.freetogame.com/one-punch-man-world",
+        "isFavorite": false
         },
         {
         "id": 576,
@@ -479,7 +515,8 @@
         "publisher": "Wizard Games Global",
         "developer": "Wizard Games Global",
         "release_date": "2024-01-31",
-        "freetogame_profile_url": "https://www.freetogame.com/battle-teams-2"
+        "freetogame_profile_url": "https://www.freetogame.com/battle-teams-2",
+        "isFavorite": false
         },
         {
         "id": 570,
@@ -492,7 +529,8 @@
         "publisher": "Embark Studios",
         "developer": "Embark Studios",
         "release_date": "2023-12-07",
-        "freetogame_profile_url": "https://www.freetogame.com/the-finals"
+        "freetogame_profile_url": "https://www.freetogame.com/the-finals",
+        "isFavorite": false
         },
         {
         "id": 571,
@@ -505,7 +543,8 @@
         "publisher": "NetEase Games",
         "developer": "NetEase Games",
         "release_date": "2023-12-22",
-        "freetogame_profile_url": "https://www.freetogame.com/infinite-borders"
+        "freetogame_profile_url": "https://www.freetogame.com/infinite-borders",
+        "isFavorite": false
         },
         {
         "id": 569,
@@ -518,7 +557,8 @@
         "publisher": "Fobia",
         "developer": "Fobia",
         "release_date": "2023-11-03",
-        "freetogame_profile_url": "https://www.freetogame.com/destinys-divide"
+        "freetogame_profile_url": "https://www.freetogame.com/destinys-divide",
+        "isFavorite": false
         },
         {
         "id": 568,
@@ -531,7 +571,8 @@
         "publisher": "Everguild Ltd.",
         "developer": "Everguild Ltd.",
         "release_date": "2023-10-19",
-        "freetogame_profile_url": "https://www.freetogame.com/warhammer-40000-warpforge"
+        "freetogame_profile_url": "https://www.freetogame.com/warhammer-40000-warpforge",
+        "isFavorite": false
         },
         {
         "id": 564,
@@ -544,7 +585,8 @@
         "publisher": "Level Infinite",
         "developer": "NExT Studios",
         "release_date": "2023-09-07",
-        "freetogame_profile_url": "https://www.freetogame.com/synced"
+        "freetogame_profile_url": "https://www.freetogame.com/synced",
+        "isFavorite": false
         },
         {
         "id": 565,
@@ -557,7 +599,8 @@
         "publisher": "Nexon",
         "developer": "Nexon",
         "release_date": "2023-09-20",
-        "freetogame_profile_url": "https://www.freetogame.com/warhaven"
+        "freetogame_profile_url": "https://www.freetogame.com/warhaven",
+        "isFavorite": false
         },
         {
         "id": 567,
@@ -570,7 +613,8 @@
         "publisher": "Masangsoft",
         "developer": "Masangsoft",
         "release_date": "2023-09-08",
-        "freetogame_profile_url": "https://www.freetogame.com/microvolts"
+        "freetogame_profile_url": "https://www.freetogame.com/microvolts",
+        "isFavorite": false
         },
         {
         "id": 558,
@@ -583,7 +627,8 @@
         "publisher": "My.Games",
         "developer": "My.Games",
         "release_date": "2023-08-03",
-        "freetogame_profile_url": "https://www.freetogame.com/hawked"
+        "freetogame_profile_url": "https://www.freetogame.com/hawked",
+        "isFavorite": false
         },
         {
         "id": 559,
@@ -596,7 +641,8 @@
         "publisher": "Coke And Code",
         "developer": "Coke And Code",
         "release_date": "2023-08-08",
-        "freetogame_profile_url": "https://www.freetogame.com/tales-of-yore"
+        "freetogame_profile_url": "https://www.freetogame.com/tales-of-yore",
+        "isFavorite": false
         },
         {
         "id": 562,
@@ -609,7 +655,8 @@
         "publisher": "Ankama Studio",
         "developer": "Ankama Games",
         "release_date": "2023-08-16",
-        "freetogame_profile_url": "https://www.freetogame.com/waven"
+        "freetogame_profile_url": "https://www.freetogame.com/waven",
+        "isFavorite": false
         },
         {
         "id": 566,
@@ -622,7 +669,8 @@
         "publisher": "BlankMediaGames LLC",
         "developer": "BlankMediaGames LLC",
         "release_date": "2023-08-25",
-        "freetogame_profile_url": "https://www.freetogame.com/town-of-salem-2"
+        "freetogame_profile_url": "https://www.freetogame.com/town-of-salem-2",
+        "isFavorite": false
         },
         {
         "id": 556,
@@ -635,7 +683,8 @@
         "publisher": "24 Entertainment",
         "developer": "NetEase",
         "release_date": "2023-07-13",
-        "freetogame_profile_url": "https://www.freetogame.com/naraka-bladepoint"
+        "freetogame_profile_url": "https://www.freetogame.com/naraka-bladepoint",
+        "isFavorite": false
         },
         {
         "id": 554,
@@ -648,7 +697,8 @@
         "publisher": "Level Infinite",
         "developer": "LightSpeed Studios",
         "release_date": "2023-06-15",
-        "freetogame_profile_url": "https://www.freetogame.com/undawn"
+        "freetogame_profile_url": "https://www.freetogame.com/undawn",
+        "isFavorite": false
         },
         {
         "id": 268,
@@ -661,7 +711,8 @@
         "publisher": "X-Legend Entertainment",
         "developer": "X-Legend Entertainment",
         "release_date": "2023-05-10",
-        "freetogame_profile_url": "https://www.freetogame.com/eden-eternal"
+        "freetogame_profile_url": "https://www.freetogame.com/eden-eternal",
+        "isFavorite": false
         },
         {
         "id": 551,
@@ -674,7 +725,8 @@
         "publisher": "Nexon Games Co., LTC",
         "developer": "Nexon",
         "release_date": "2023-05-18",
-        "freetogame_profile_url": "https://www.freetogame.com/veiled-experts"
+        "freetogame_profile_url": "https://www.freetogame.com/veiled-experts",
+        "isFavorite": false
         },
         {
         "id": 552,
@@ -687,7 +739,8 @@
         "publisher": "THQ Nordic",
         "developer": "PowWow Entertainment",
         "release_date": "2023-05-04",
-        "freetogame_profile_url": "https://www.freetogame.com/jected-rivals"
+        "freetogame_profile_url": "https://www.freetogame.com/jected-rivals",
+        "isFavorite": false
         },
         {
         "id": 557,
@@ -700,7 +753,8 @@
         "publisher": " Gellyberry Studios",
         "developer": " Gellyberry Studios",
         "release_date": "2023-05-01",
-        "freetogame_profile_url": "https://www.freetogame.com/ethyrial-echoes-of-yore"
+        "freetogame_profile_url": "https://www.freetogame.com/ethyrial-echoes-of-yore",
+        "isFavorite": false
         },
         {
         "id": 574,
@@ -713,7 +767,8 @@
         "publisher": "Jandisoft",
         "developer": "Jandisoft",
         "release_date": "2023-04-10",
-        "freetogame_profile_url": "https://www.freetogame.com/mad-world"
+        "freetogame_profile_url": "https://www.freetogame.com/mad-world",
+        "isFavorite": false
         },
         {
         "id": 548,
@@ -726,7 +781,8 @@
         "publisher": "PressA",
         "developer": "PressZ",
         "release_date": "2023-02-28",
-        "freetogame_profile_url": "https://www.freetogame.com/dead-cide-club"
+        "freetogame_profile_url": "https://www.freetogame.com/dead-cide-club",
+        "isFavorite": false
         },
         {
         "id": 546,
@@ -739,7 +795,8 @@
         "publisher": "Nexon America Inc.",
         "developer": "Nexon Korea Corporation",
         "release_date": "2023-01-10",
-        "freetogame_profile_url": "https://www.freetogame.com/kartrider-drift"
+        "freetogame_profile_url": "https://www.freetogame.com/kartrider-drift",
+        "isFavorite": false
         },
         {
         "id": 547,
@@ -752,7 +809,8 @@
         "publisher": "Plaion",
         "developer": "Toylogic Inc.",
         "release_date": "2023-01-24",
-        "freetogame_profile_url": "https://www.freetogame.com/warlander"
+        "freetogame_profile_url": "https://www.freetogame.com/warlander",
+        "isFavorite": false
         },
         {
         "id": 545,
@@ -765,7 +823,8 @@
         "publisher": "Hidden Leaf Games",
         "developer": "Hidden Leaf Games",
         "release_date": "2022-11-30",
-        "freetogame_profile_url": "https://www.freetogame.com/fangs"
+        "freetogame_profile_url": "https://www.freetogame.com/fangs",
+        "isFavorite": false
         },
         {
         "id": 549,
@@ -778,7 +837,8 @@
         "publisher": "Com2uS",
         "developer": "Com2uS",
         "release_date": "2022-11-09",
-        "freetogame_profile_url": "https://www.freetogame.com/summoners-war-chronicles"
+        "freetogame_profile_url": "https://www.freetogame.com/summoners-war-chronicles",
+        "isFavorite": false
         },
         {
         "id": 541,
@@ -791,7 +851,8 @@
         "publisher": "Nuverse",
         "developer": "Second Dinner Studios, Inc.",
         "release_date": "2022-10-18",
-        "freetogame_profile_url": "https://www.freetogame.com/marvel-snap"
+        "freetogame_profile_url": "https://www.freetogame.com/marvel-snap",
+        "isFavorite": false
         },
         {
         "id": 542,
@@ -804,7 +865,8 @@
         "publisher": "Playside",
         "developer": "Playside",
         "release_date": "2022-10-19",
-        "freetogame_profile_url": "https://www.freetogame.com/world-boss"
+        "freetogame_profile_url": "https://www.freetogame.com/world-boss",
+        "isFavorite": false
         },
         {
         "id": 536,
@@ -817,7 +879,8 @@
         "publisher": "Odyssey Interactive",
         "developer": "Odyssey Interactive",
         "release_date": "2022-09-16",
-        "freetogame_profile_url": "https://www.freetogame.com/omega-strikers"
+        "freetogame_profile_url": "https://www.freetogame.com/omega-strikers",
+        "isFavorite": false
         },
         {
         "id": 537,
@@ -830,7 +893,8 @@
         "publisher": "Bandai Namco",
         "developer": "Bandai Namco",
         "release_date": "2022-09-21",
-        "freetogame_profile_url": "https://www.freetogame.com/gundam-evolution"
+        "freetogame_profile_url": "https://www.freetogame.com/gundam-evolution",
+        "isFavorite": false
         },
         {
         "id": 539,
@@ -843,7 +907,8 @@
         "publisher": "Supertrick Games, Inc.",
         "developer": "GungHo Online Entertianment, Inc.",
         "release_date": "2022-09-28",
-        "freetogame_profile_url": "https://www.freetogame.com/deathverse-let-it-die"
+        "freetogame_profile_url": "https://www.freetogame.com/deathverse-let-it-die",
+        "isFavorite": false
         },
         {
         "id": 544,
@@ -856,7 +921,8 @@
         "publisher": "Simutronics Corp.",
         "developer": "Simutronics Corp.",
         "release_date": "2022-09-01",
-        "freetogame_profile_url": "https://www.freetogame.com/galahad-3093"
+        "freetogame_profile_url": "https://www.freetogame.com/galahad-3093",
+        "isFavorite": false
         },
         {
         "id": 527,
@@ -869,7 +935,8 @@
         "publisher": "Anisage Games",
         "developer": "Anisage Games",
         "release_date": "2022-08-01",
-        "freetogame_profile_url": "https://www.freetogame.com/aero-tales-online"
+        "freetogame_profile_url": "https://www.freetogame.com/aero-tales-online",
+        "isFavorite": false
         },
         {
         "id": 531,
@@ -882,7 +949,8 @@
         "publisher": "Wizards of the Coast LLC",
         "developer": "Pipeworks Studios, Seismic Games",
         "release_date": "2022-08-05",
-        "freetogame_profile_url": "https://www.freetogame.com/magic-spellslingers"
+        "freetogame_profile_url": "https://www.freetogame.com/magic-spellslingers",
+        "isFavorite": false
         },
         {
         "id": 533,
@@ -895,7 +963,8 @@
         "publisher": "NEOWIZ",
         "developer": "NEOWIZ",
         "release_date": "2022-08-24",
-        "freetogame_profile_url": "https://www.freetogame.com/ava"
+        "freetogame_profile_url": "https://www.freetogame.com/ava",
+        "isFavorite": false
         },
         {
         "id": 534,
@@ -908,7 +977,8 @@
         "publisher": "NetEase Games",
         "developer": "NetEase Games",
         "release_date": "2022-08-04",
-        "freetogame_profile_url": "https://www.freetogame.com/lost-light"
+        "freetogame_profile_url": "https://www.freetogame.com/lost-light",
+        "isFavorite": false
         },
         {
         "id": 524,
@@ -921,7 +991,8 @@
         "publisher": "Leonardo Interactive",
         "developer": "MoonWolf Entertainment, A2 Softworks",
         "release_date": "2022-07-26",
-        "freetogame_profile_url": "https://www.freetogame.com/temperia"
+        "freetogame_profile_url": "https://www.freetogame.com/temperia",
+        "isFavorite": false
         },
         {
         "id": 526,
@@ -934,7 +1005,8 @@
         "publisher": "Level Infinite",
         "developer": "Pixel soft",
         "release_date": "2022-07-14",
-        "freetogame_profile_url": "https://www.freetogame.com/chimeraland"
+        "freetogame_profile_url": "https://www.freetogame.com/chimeraland",
+        "isFavorite": false
         },
         {
         "id": 520,
@@ -947,7 +1019,8 @@
         "publisher": "Ubisoft",
         "developer": "Ubisoft",
         "release_date": "2022-05-25",
-        "freetogame_profile_url": "https://www.freetogame.com/roller-champions"
+        "freetogame_profile_url": "https://www.freetogame.com/roller-champions",
+        "isFavorite": false
         },
         {
         "id": 519,
@@ -960,7 +1033,8 @@
         "publisher": "JAGEX",
         "developer": "Flying Wild Hog",
         "release_date": "2022-04-20",
-        "freetogame_profile_url": "https://www.freetogame.com/space-punks"
+        "freetogame_profile_url": "https://www.freetogame.com/space-punks",
+        "isFavorite": false
         },
         {
         "id": 550,
@@ -973,7 +1047,8 @@
         "publisher": "Gaggle Studios, Inc.",
         "developer": "Gaggle Studios, Inc.",
         "release_date": "2021-10-03",
-        "freetogame_profile_url": "https://www.freetogame.com/goose-goose-duck"
+        "freetogame_profile_url": "https://www.freetogame.com/goose-goose-duck",
+        "isFavorite": false
         },
         {
         "id": 518,
@@ -986,7 +1061,8 @@
         "publisher": "Gameforge",
         "developer": "Wangyuan Shengtang Entertainment",
         "release_date": "2021-07-09",
-        "freetogame_profile_url": "https://www.freetogame.com/swords-of-legends-online"
+        "freetogame_profile_url": "https://www.freetogame.com/swords-of-legends-online",
+        "isFavorite": false
         },
         {
         "id": 513,
@@ -999,7 +1075,8 @@
         "publisher": "Bad Fox Studios",
         "developer": "Bad Fox Studios",
         "release_date": "2021-06-25",
-        "freetogame_profile_url": "https://www.freetogame.com/super-squad"
+        "freetogame_profile_url": "https://www.freetogame.com/super-squad",
+        "isFavorite": false
         },
         {
         "id": 512,
@@ -1012,7 +1089,8 @@
         "publisher": "CAGE Studios",
         "developer": "CAGE Studios",
         "release_date": "2021-05-12",
-        "freetogame_profile_url": "https://www.freetogame.com/sherwood-extreme"
+        "freetogame_profile_url": "https://www.freetogame.com/sherwood-extreme",
+        "isFavorite": false
         },
         {
         "id": 509,
@@ -1025,7 +1103,8 @@
         "publisher": "LINE Games Corporation",
         "developer": "5minlab",
         "release_date": "2021-04-13",
-        "freetogame_profile_url": "https://www.freetogame.com/smash-legends"
+        "freetogame_profile_url": "https://www.freetogame.com/smash-legends",
+        "isFavorite": false
         },
         {
         "id": 510,
@@ -1038,7 +1117,8 @@
         "publisher": "Blind Squirrel Entertainment",
         "developer": "Blind Squirrel Entertainment",
         "release_date": "2021-04-15",
-        "freetogame_profile_url": "https://www.freetogame.com/drifters-loot-the-galaxy"
+        "freetogame_profile_url": "https://www.freetogame.com/drifters-loot-the-galaxy",
+        "isFavorite": false
         },
         {
         "id": 502,
@@ -1051,7 +1131,8 @@
         "publisher": "Wire Games",
         "developer": "Global Dodo Entertainment",
         "release_date": "2021-03-04",
-        "freetogame_profile_url": "https://www.freetogame.com/primordials-battle-of-gods"
+        "freetogame_profile_url": "https://www.freetogame.com/primordials-battle-of-gods",
+        "isFavorite": false
         },
         {
         "id": 507,
@@ -1064,7 +1145,8 @@
         "publisher": "NetEase Games",
         "developer": "NetEase Games",
         "release_date": "2021-03-25",
-        "freetogame_profile_url": "https://www.freetogame.com/super-mecha-champions"
+        "freetogame_profile_url": "https://www.freetogame.com/super-mecha-champions",
+        "isFavorite": false
         },
         {
         "id": 500,
@@ -1077,7 +1159,8 @@
         "publisher": "WhisperGames",
         "developer": "Clarity Games",
         "release_date": "2021-01-28",
-        "freetogame_profile_url": "https://www.freetogame.com/chroma-bloom-and-blight"
+        "freetogame_profile_url": "https://www.freetogame.com/chroma-bloom-and-blight",
+        "isFavorite": false
         },
         {
         "id": 498,
@@ -1090,7 +1173,8 @@
         "publisher": "Third Kind Games",
         "developer": "Mythical Games Inc",
         "release_date": "2020-12-11",
-        "freetogame_profile_url": "https://www.freetogame.com/blankos"
+        "freetogame_profile_url": "https://www.freetogame.com/blankos",
+        "isFavorite": false
         },
         {
         "id": 499,
@@ -1103,7 +1187,8 @@
         "publisher": "Oddshot Games",
         "developer": "Oddshot Games",
         "release_date": "2020-12-07",
-        "freetogame_profile_url": "https://www.freetogame.com/slapshot-rebound"
+        "freetogame_profile_url": "https://www.freetogame.com/slapshot-rebound",
+        "isFavorite": false
         },
         {
         "id": 476,
@@ -1116,7 +1201,8 @@
         "publisher": "Hi-Rez Studios",
         "developer": "First Watch Games",
         "release_date": "2020-10-01",
-        "freetogame_profile_url": "https://www.freetogame.com/rogue-company"
+        "freetogame_profile_url": "https://www.freetogame.com/rogue-company",
+        "isFavorite": false
         },
         {
         "id": 477,
@@ -1129,7 +1215,8 @@
         "publisher": "Nimble Neuron",
         "developer": "Nimble Neuron",
         "release_date": "2020-10-14",
-        "freetogame_profile_url": "https://www.freetogame.com/eternal-return"
+        "freetogame_profile_url": "https://www.freetogame.com/eternal-return",
+        "isFavorite": false
         },
         {
         "id": 479,
@@ -1142,7 +1229,8 @@
         "publisher": "YC Games",
         "developer": "YC Games",
         "release_date": "2020-10-20",
-        "freetogame_profile_url": "https://www.freetogame.com/blood-of-steel"
+        "freetogame_profile_url": "https://www.freetogame.com/blood-of-steel",
+        "isFavorite": false
         },
         {
         "id": 473,
@@ -1155,7 +1243,8 @@
         "publisher": "Proletariat",
         "developer": "Proletariat",
         "release_date": "2020-09-04",
-        "freetogame_profile_url": "https://www.freetogame.com/spellbreak"
+        "freetogame_profile_url": "https://www.freetogame.com/spellbreak",
+        "isFavorite": false
         },
         {
         "id": 474,
@@ -1168,7 +1257,8 @@
         "publisher": "Psyonix LLC",
         "developer": "Psyonix LLC",
         "release_date": "2020-09-24",
-        "freetogame_profile_url": "https://www.freetogame.com/rocket-league"
+        "freetogame_profile_url": "https://www.freetogame.com/rocket-league",
+        "isFavorite": false
         },
         {
         "id": 469,
@@ -1181,7 +1271,8 @@
         "publisher": "New Blood Interactive",
         "developer": "Geoff 'Zag' Keene",
         "release_date": "2020-06-12",
-        "freetogame_profile_url": "https://www.freetogame.com/unfortunate-spacemen"
+        "freetogame_profile_url": "https://www.freetogame.com/unfortunate-spacemen",
+        "isFavorite": false
         },
         {
         "id": 461,
@@ -1194,7 +1285,8 @@
         "publisher": "Kabam Games, Inc.",
         "developer": "Kabam Games, Inc.",
         "release_date": "2020-05-05",
-        "freetogame_profile_url": "https://www.freetogame.com/shop-titans"
+        "freetogame_profile_url": "https://www.freetogame.com/shop-titans",
+        "isFavorite": false
         },
         {
         "id": 459,
@@ -1207,7 +1299,8 @@
         "publisher": "Giant Duck Games",
         "developer": "Giant Duck Games",
         "release_date": "2020-03-07",
-        "freetogame_profile_url": "https://www.freetogame.com/bombergrounds-battle-royale"
+        "freetogame_profile_url": "https://www.freetogame.com/bombergrounds-battle-royale",
+        "isFavorite": false
         },
         {
         "id": 563,
@@ -1220,7 +1313,8 @@
         "publisher": "ViVa Games",
         "developer": "ViVa Games",
         "release_date": "2020-02-01",
-        "freetogame_profile_url": "https://www.freetogame.com/kakale-online"
+        "freetogame_profile_url": "https://www.freetogame.com/kakale-online",
+        "isFavorite": false
         },
         {
         "id": 39,
@@ -1233,7 +1327,8 @@
         "publisher": "Scavengers Studio",
         "developer": "Scavengers Studio",
         "release_date": "2020-01-14",
-        "freetogame_profile_url": "https://www.freetogame.com/darwin-project"
+        "freetogame_profile_url": "https://www.freetogame.com/darwin-project",
+        "isFavorite": false
         },
         {
         "id": 441,
@@ -1246,7 +1341,8 @@
         "publisher": "Riot Games",
         "developer": "Riot Games",
         "release_date": "2020-01-24",
-        "freetogame_profile_url": "https://www.freetogame.com/runeterra"
+        "freetogame_profile_url": "https://www.freetogame.com/runeterra",
+        "isFavorite": false
         },
         {
         "id": 4,
@@ -1259,7 +1355,8 @@
         "publisher": "Gaijin Distribution KFT",
         "developer": "Darkflow Software",
         "release_date": "2019-12-12",
-        "freetogame_profile_url": "https://www.freetogame.com/crsed"
+        "freetogame_profile_url": "https://www.freetogame.com/crsed",
+        "isFavorite": false
         },
         {
         "id": 436,
@@ -1272,7 +1369,8 @@
         "publisher": "INFERNA LIMITED",
         "developer": "INFERNA LIMITED",
         "release_date": "2019-12-21",
-        "freetogame_profile_url": "https://www.freetogame.com/inferna"
+        "freetogame_profile_url": "https://www.freetogame.com/inferna",
+        "isFavorite": false
         },
         {
         "id": 501,
@@ -1285,7 +1383,8 @@
         "publisher": "Wildworks",
         "developer": "Wildworks",
         "release_date": "2019-12-13",
-        "freetogame_profile_url": "https://www.freetogame.com/Feral"
+        "freetogame_profile_url": "https://www.freetogame.com/Feral",
+        "isFavorite": false
         },
         {
         "id": 435,
@@ -1298,7 +1397,8 @@
         "publisher": "Epic Games",
         "developer": "Epic Games",
         "release_date": "2019-11-13",
-        "freetogame_profile_url": "https://www.freetogame.com/battlebreakers"
+        "freetogame_profile_url": "https://www.freetogame.com/battlebreakers",
+        "isFavorite": false
         },
         {
         "id": 437,
@@ -1311,7 +1411,8 @@
         "publisher": "Mobile Technologies LLC",
         "developer": "Mobile Technologies LLC",
         "release_date": "2019-11-27",
-        "freetogame_profile_url": "https://www.freetogame.com/stay-out"
+        "freetogame_profile_url": "https://www.freetogame.com/stay-out",
+        "isFavorite": false
         },
         {
         "id": 439,
@@ -1324,7 +1425,8 @@
         "publisher": "IDG GAmes",
         "developer": "IDG GAmes",
         "release_date": "2019-11-01",
-        "freetogame_profile_url": "https://www.freetogame.com/futbol-legends"
+        "freetogame_profile_url": "https://www.freetogame.com/futbol-legends",
+        "isFavorite": false
         },
         {
         "id": 505,
@@ -1337,7 +1439,8 @@
         "publisher": "Rhino Games Inc.",
         "developer": "Rhino Games Inc.",
         "release_date": "2019-09-18",
-        "freetogame_profile_url": "https://www.freetogame.com/mythgard"
+        "freetogame_profile_url": "https://www.freetogame.com/mythgard",
+        "isFavorite": false
         },
         {
         "id": 446,
@@ -1350,7 +1453,8 @@
         "publisher": "Citadel Studios Inc",
         "developer": "Citadel Studios Inc",
         "release_date": "2019-08-07",
-        "freetogame_profile_url": "https://www.freetogame.com/legends-of-aria"
+        "freetogame_profile_url": "https://www.freetogame.com/legends-of-aria",
+        "isFavorite": false
         },
         {
         "id": 451,
@@ -1363,7 +1467,8 @@
         "publisher": "Crunchy Leaf Games",
         "developer": "Crunchy Leaf Games",
         "release_date": "2019-08-30",
-        "freetogame_profile_url": "https://www.freetogame.com/crystal-clash"
+        "freetogame_profile_url": "https://www.freetogame.com/crystal-clash",
+        "isFavorite": false
         },
         {
         "id": 447,
@@ -1376,7 +1481,8 @@
         "publisher": "Valve",
         "developer": "Valve",
         "release_date": "2019-06-21",
-        "freetogame_profile_url": "https://www.freetogame.com/dota-underlords"
+        "freetogame_profile_url": "https://www.freetogame.com/dota-underlords",
+        "isFavorite": false
         },
         {
         "id": 19,
@@ -1389,7 +1495,8 @@
         "publisher": "Betadwarf",
         "developer": "Betadwarf",
         "release_date": "2019-05-24",
-        "freetogame_profile_url": "https://www.freetogame.com/minion-masters"
+        "freetogame_profile_url": "https://www.freetogame.com/minion-masters",
+        "isFavorite": false
         },
         {
         "id": 20,
@@ -1402,7 +1509,8 @@
         "publisher": "1047 Games",
         "developer": "1047 Games",
         "release_date": "2019-05-22",
-        "freetogame_profile_url": "https://www.freetogame.com/splitgate-arena-warfare"
+        "freetogame_profile_url": "https://www.freetogame.com/splitgate-arena-warfare",
+        "isFavorite": false
         },
         {
         "id": 456,
@@ -1415,7 +1523,8 @@
         "publisher": "Booming Games",
         "developer": "Booming Games",
         "release_date": "2019-05-30",
-        "freetogame_profile_url": "https://www.freetogame.com/conquerors-blade"
+        "freetogame_profile_url": "https://www.freetogame.com/conquerors-blade",
+        "isFavorite": false
         },
         {
         "id": 438,
@@ -1428,7 +1537,8 @@
         "publisher": "1939 Games",
         "developer": "1939 Games",
         "release_date": "2019-04-12",
-        "freetogame_profile_url": "https://www.freetogame.com/kards"
+        "freetogame_profile_url": "https://www.freetogame.com/kards",
+        "isFavorite": false
         },
         {
         "id": 448,
@@ -1441,7 +1551,8 @@
         "publisher": "KOG",
         "developer": "KOG",
         "release_date": "2019-04-30",
-        "freetogame_profile_url": "https://www.freetogame.com/kurtzpel"
+        "freetogame_profile_url": "https://www.freetogame.com/kurtzpel",
+        "isFavorite": false
         },
         {
         "id": 91,
@@ -1454,7 +1565,8 @@
         "publisher": "Dire Wolf Digital",
         "developer": "Dire Wolf Digital",
         "release_date": "2018-11-15",
-        "freetogame_profile_url": "https://www.freetogame.com/eternal"
+        "freetogame_profile_url": "https://www.freetogame.com/eternal",
+        "isFavorite": false
         },
         {
         "id": 503,
@@ -1467,7 +1579,8 @@
         "publisher": "Valve",
         "developer": "Valve",
         "release_date": "2018-11-29",
-        "freetogame_profile_url": "https://www.freetogame.com/artifact"
+        "freetogame_profile_url": "https://www.freetogame.com/artifact",
+        "isFavorite": false
         },
         {
         "id": 538,
@@ -1480,7 +1593,8 @@
         "publisher": "Wishlist Games, The 4 Winds Entertainment",
         "developer": "The Farm 51",
         "release_date": "2018-10-19",
-        "freetogame_profile_url": "https://www.freetogame.com/world-war-3"
+        "freetogame_profile_url": "https://www.freetogame.com/world-war-3",
+        "isFavorite": false
         },
         {
         "id": 299,
@@ -1493,7 +1607,8 @@
         "publisher": "VALOFE, NEXON",
         "developer": "Doobic Studios",
         "release_date": "2018-10-31",
-        "freetogame_profile_url": "https://www.freetogame.com/combat-arms"
+        "freetogame_profile_url": "https://www.freetogame.com/combat-arms",
+        "isFavorite": false
         },
         {
         "id": 68,
@@ -1506,7 +1621,8 @@
         "publisher": "Grey Box",
         "developer": "Yager Development",
         "release_date": "2018-10-14",
-        "freetogame_profile_url": "https://www.freetogame.com/dreadnought"
+        "freetogame_profile_url": "https://www.freetogame.com/dreadnought",
+        "isFavorite": false
         },
         {
         "id": 28,
@@ -1519,7 +1635,8 @@
         "publisher": " MercurySteam Entertainment",
         "developer": "MercurySteam",
         "release_date": "2018-09-22",
-        "freetogame_profile_url": "https://www.freetogame.com/spacelords"
+        "freetogame_profile_url": "https://www.freetogame.com/spacelords",
+        "isFavorite": false
         },
         {
         "id": 450,
@@ -1532,7 +1649,8 @@
         "publisher": "Stunlock Studios",
         "developer": "Stunlock Studios",
         "release_date": "2018-09-26",
-        "freetogame_profile_url": "https://www.freetogame.com/battlerite-royale"
+        "freetogame_profile_url": "https://www.freetogame.com/battlerite-royale",
+        "isFavorite": false
         },
         {
         "id": 454,
@@ -1545,7 +1663,8 @@
         "publisher": "Wizards of the Coast",
         "developer": "Wizards of the Coast",
         "release_date": "2018-09-27",
-        "freetogame_profile_url": "https://www.freetogame.com/mtg-arena"
+        "freetogame_profile_url": "https://www.freetogame.com/mtg-arena",
+        "isFavorite": false
         },
         {
         "id": 282,
@@ -1558,7 +1677,8 @@
         "publisher": "Papaya Play",
         "developer": "Vertigo Games",
         "release_date": "2018-07-27",
-        "freetogame_profile_url": "https://www.freetogame.com/blackshot"
+        "freetogame_profile_url": "https://www.freetogame.com/blackshot",
+        "isFavorite": false
         },
         {
         "id": 31,
@@ -1571,7 +1691,8 @@
         "publisher": "Pegnio Ltd",
         "developer": "Pegnio Ltd",
         "release_date": "2018-06-27",
-        "freetogame_profile_url": "https://www.freetogame.com/cosmos-invictus"
+        "freetogame_profile_url": "https://www.freetogame.com/cosmos-invictus",
+        "isFavorite": false
         },
         {
         "id": 36,
@@ -1584,7 +1705,8 @@
         "publisher": "Hi-Rez Studios",
         "developer": "Hi-Rez Studios",
         "release_date": "2018-06-05",
-        "freetogame_profile_url": "https://www.freetogame.com/realm-royale"
+        "freetogame_profile_url": "https://www.freetogame.com/realm-royale",
+        "isFavorite": false
         },
         {
         "id": 506,
@@ -1597,7 +1719,8 @@
         "publisher": "Landfall",
         "developer": "Landfall",
         "release_date": "2018-06-06",
-        "freetogame_profile_url": "https://www.freetogame.com/tabg"
+        "freetogame_profile_url": "https://www.freetogame.com/tabg",
+        "isFavorite": false
         },
         {
         "id": 434,
@@ -1610,7 +1733,8 @@
         "publisher": "AlphaSoft LLC",
         "developer": "AlphaSoft LLC",
         "release_date": "2018-04-05",
-        "freetogame_profile_url": "https://www.freetogame.com/will-to-live"
+        "freetogame_profile_url": "https://www.freetogame.com/will-to-live",
+        "isFavorite": false
         },
         {
         "id": 42,
@@ -1623,7 +1747,8 @@
         "publisher": "Frogsong Studios AB",
         "developer": "Frogsong Studios AB",
         "release_date": "2018-03-13",
-        "freetogame_profile_url": "https://www.freetogame.com/spellsworn"
+        "freetogame_profile_url": "https://www.freetogame.com/spellsworn",
+        "isFavorite": false
         },
         {
         "id": 43,
@@ -1636,7 +1761,8 @@
         "publisher": "Daybreak Game Company",
         "developer": "Daybreak Game Company",
         "release_date": "2018-02-28",
-        "freetogame_profile_url": "https://www.freetogame.com/z1-battle-royale"
+        "freetogame_profile_url": "https://www.freetogame.com/z1-battle-royale",
+        "isFavorite": false
         },
         {
         "id": 44,
@@ -1649,7 +1775,8 @@
         "publisher": "Toasty Leaf AB",
         "developer": "Toasty Leaf AB",
         "release_date": "2018-02-23",
-        "freetogame_profile_url": "https://www.freetogame.com/tale-of-toast"
+        "freetogame_profile_url": "https://www.freetogame.com/tale-of-toast",
+        "isFavorite": false
         },
         {
         "id": 47,
@@ -1662,7 +1789,8 @@
         "publisher": "David Schneider",
         "developer": "David Schneider",
         "release_date": "2018-02-12",
-        "freetogame_profile_url": "https://www.freetogame.com/bombtag"
+        "freetogame_profile_url": "https://www.freetogame.com/bombtag",
+        "isFavorite": false
         },
         {
         "id": 48,
@@ -1675,7 +1803,8 @@
         "publisher": "WipleGames Inc.",
         "developer": "WipleGames Inc.",
         "release_date": "2018-02-01",
-        "freetogame_profile_url": "https://www.freetogame.com/ironsight"
+        "freetogame_profile_url": "https://www.freetogame.com/ironsight",
+        "isFavorite": false
         },
         {
         "id": 49,
@@ -1688,7 +1817,8 @@
         "publisher": "801",
         "developer": "801",
         "release_date": "2018-02-13",
-        "freetogame_profile_url": "https://www.freetogame.com/dead-maze"
+        "freetogame_profile_url": "https://www.freetogame.com/dead-maze",
+        "isFavorite": false
         },
         {
         "id": 316,
@@ -1701,7 +1831,8 @@
         "publisher": "NETGAME Inc",
         "developer": "MGAME Corporation",
         "release_date": "2018-01-30",
-        "freetogame_profile_url": "https://www.freetogame.com/scions-of-fate"
+        "freetogame_profile_url": "https://www.freetogame.com/scions-of-fate",
+        "isFavorite": false
         },
         {
         "id": 22,
@@ -1714,7 +1845,8 @@
         "publisher": "Juvty Worlds Ltd.",
         "developer": "Juvty Worlds Ltd.",
         "release_date": "2017-12-18",
-        "freetogame_profile_url": "https://www.freetogame.com/wild-terra-online"
+        "freetogame_profile_url": "https://www.freetogame.com/wild-terra-online",
+        "isFavorite": false
         },
         {
         "id": 51,
@@ -1727,7 +1859,8 @@
         "publisher": "SubaGames",
         "developer": "PixelSoft",
         "release_date": "2017-12-29",
-        "freetogame_profile_url": "https://www.freetogame.com/global-adventures"
+        "freetogame_profile_url": "https://www.freetogame.com/global-adventures",
+        "isFavorite": false
         },
         {
         "id": 52,
@@ -1740,7 +1873,8 @@
         "publisher": "En Masse Entertainment",
         "developer": "Naddic Games",
         "release_date": "2017-12-19",
-        "freetogame_profile_url": "https://www.freetogame.com/closers"
+        "freetogame_profile_url": "https://www.freetogame.com/closers",
+        "isFavorite": false
         },
         {
         "id": 322,
@@ -1753,7 +1887,8 @@
         "publisher": "Papaya Play",
         "developer": "Actoz Soft",
         "release_date": "2017-11-17",
-        "freetogame_profile_url": "https://www.freetogame.com/la-tale"
+        "freetogame_profile_url": "https://www.freetogame.com/la-tale",
+        "isFavorite": false
         },
         {
         "id": 120,
@@ -1766,7 +1901,8 @@
         "publisher": "Suba Games",
         "developer": "Suba Games",
         "release_date": "2017-10-17",
-        "freetogame_profile_url": "https://www.freetogame.com/luna-online"
+        "freetogame_profile_url": "https://www.freetogame.com/luna-online",
+        "isFavorite": false
         },
         {
         "id": 58,
@@ -1779,7 +1915,8 @@
         "publisher": "Ediogames",
         "developer": "Ediogames",
         "release_date": "2017-09-12",
-        "freetogame_profile_url": "https://www.freetogame.com/the-ultimatest-battle"
+        "freetogame_profile_url": "https://www.freetogame.com/the-ultimatest-battle",
+        "isFavorite": false
         },
         {
         "id": 59,
@@ -1792,7 +1929,8 @@
         "publisher": "Bad Seed",
         "developer": "Bad Seed",
         "release_date": "2017-09-07",
-        "freetogame_profile_url": "https://www.freetogame.com/insidia"
+        "freetogame_profile_url": "https://www.freetogame.com/insidia",
+        "isFavorite": false
         },
         {
         "id": 30,
@@ -1805,7 +1943,8 @@
         "publisher": "Bethesda Softworks",
         "developer": "id Software",
         "release_date": "2017-08-22",
-        "freetogame_profile_url": "https://www.freetogame.com/quake-champions"
+        "freetogame_profile_url": "https://www.freetogame.com/quake-champions",
+        "isFavorite": false
         },
         {
         "id": 61,
@@ -1818,7 +1957,8 @@
         "publisher": "NEOWIZ",
         "developer": "NS Studio",
         "release_date": "2017-07-28",
-        "freetogame_profile_url": "https://www.freetogame.com/black-squad"
+        "freetogame_profile_url": "https://www.freetogame.com/black-squad",
+        "isFavorite": false
         },
         {
         "id": 64,
@@ -1831,7 +1971,8 @@
         "publisher": "Funcom",
         "developer": "Funcom",
         "release_date": "2017-07-31",
-        "freetogame_profile_url": "https://www.freetogame.com/secret-world-legends"
+        "freetogame_profile_url": "https://www.freetogame.com/secret-world-legends",
+        "isFavorite": false
         },
         {
         "id": 63,
@@ -1844,7 +1985,8 @@
         "publisher": "Bohemia Interactive",
         "developer": "Bohemia Interactive",
         "release_date": "2017-06-22",
-        "freetogame_profile_url": "https://www.freetogame.com/argo"
+        "freetogame_profile_url": "https://www.freetogame.com/argo",
+        "isFavorite": false
         },
         {
         "id": 65,
@@ -1857,7 +1999,8 @@
         "publisher": "Kukouri Mobile Entertainment ",
         "developer": "Kukouri Mobile Entertainment ",
         "release_date": "2017-06-09",
-        "freetogame_profile_url": "https://www.freetogame.com/pixel-worlds"
+        "freetogame_profile_url": "https://www.freetogame.com/pixel-worlds",
+        "isFavorite": false
         },
         {
         "id": 55,
@@ -1870,7 +2013,8 @@
         "publisher": "Automaton",
         "developer": "Automaton",
         "release_date": "2017-05-03",
-        "freetogame_profile_url": "https://www.freetogame.com/deceit"
+        "freetogame_profile_url": "https://www.freetogame.com/deceit",
+        "isFavorite": false
         },
         {
         "id": 66,
@@ -1883,7 +2027,8 @@
         "publisher": "CD Projekt Red",
         "developer": "CD Projekt Red",
         "release_date": "2017-05-24",
-        "freetogame_profile_url": "https://www.freetogame.com/gwent"
+        "freetogame_profile_url": "https://www.freetogame.com/gwent",
+        "isFavorite": false
         },
         {
         "id": 67,
@@ -1896,7 +2041,8 @@
         "publisher": "Ronimo Games",
         "developer": "Ronimo Games",
         "release_date": "2017-05-24",
-        "freetogame_profile_url": "https://www.freetogame.com/awesomenauts"
+        "freetogame_profile_url": "https://www.freetogame.com/awesomenauts",
+        "isFavorite": false
         },
         {
         "id": 70,
@@ -1909,7 +2055,8 @@
         "publisher": "Reactive Drop",
         "developer": "Reactive Drop",
         "release_date": "2017-04-20",
-        "freetogame_profile_url": "https://www.freetogame.com/alien-swarm-reactive-drop"
+        "freetogame_profile_url": "https://www.freetogame.com/alien-swarm-reactive-drop",
+        "isFavorite": false
         },
         {
         "id": 71,
@@ -1922,7 +2069,8 @@
         "publisher": "United Soft Media",
         "developer": "Exozet",
         "release_date": "2017-04-25",
-        "freetogame_profile_url": "https://www.freetogame.com/catan-universe"
+        "freetogame_profile_url": "https://www.freetogame.com/catan-universe",
+        "isFavorite": false
         },
         {
         "id": 72,
@@ -1935,7 +2083,8 @@
         "publisher": "Ankama Games",
         "developer": "Ankama Studio",
         "release_date": "2017-04-12",
-        "freetogame_profile_url": "https://www.freetogame.com/krosmaga"
+        "freetogame_profile_url": "https://www.freetogame.com/krosmaga",
+        "isFavorite": false
         },
         {
         "id": 77,
@@ -1948,7 +2097,8 @@
         "publisher": "My.com",
         "developer": "NetEase",
         "release_date": "2017-03-06",
-        "freetogame_profile_url": "https://www.freetogame.com/revelation-online"
+        "freetogame_profile_url": "https://www.freetogame.com/revelation-online",
+        "isFavorite": false
         },
         {
         "id": 87,
@@ -1961,7 +2111,8 @@
         "publisher": "VALOFE",
         "developer": "VALOFE",
         "release_date": "2017-03-23",
-        "freetogame_profile_url": "https://www.freetogame.com/mu-legend"
+        "freetogame_profile_url": "https://www.freetogame.com/mu-legend",
+        "isFavorite": false
         },
         {
         "id": 421,
@@ -1974,7 +2125,8 @@
         "publisher": "Gameforge",
         "developer": "Virtys",
         "release_date": "2017-03-27",
-        "freetogame_profile_url": "https://www.freetogame.com/therian-saga"
+        "freetogame_profile_url": "https://www.freetogame.com/therian-saga",
+        "isFavorite": false
         },
         {
         "id": 69,
@@ -1987,7 +2139,8 @@
         "publisher": "BISBOG SA",
         "developer": "Kyy Games",
         "release_date": "2017-02-08",
-        "freetogame_profile_url": "https://www.freetogame.com/cabals-card-blitz"
+        "freetogame_profile_url": "https://www.freetogame.com/cabals-card-blitz",
+        "isFavorite": false
         },
         {
         "id": 82,
@@ -2000,7 +2153,8 @@
         "publisher": "BlackSpot Entertainment",
         "developer": "BlackSpot Entertainment",
         "release_date": "2017-01-31",
-        "freetogame_profile_url": "https://www.freetogame.com/line-of-sight"
+        "freetogame_profile_url": "https://www.freetogame.com/line-of-sight",
+        "isFavorite": false
         },
         {
         "id": 83,
@@ -2013,7 +2167,8 @@
         "publisher": "Hoplon",
         "developer": "Hoplon",
         "release_date": "2017-01-31",
-        "freetogame_profile_url": "https://www.freetogame.com/heavy-metal-machines"
+        "freetogame_profile_url": "https://www.freetogame.com/heavy-metal-machines",
+        "isFavorite": false
         },
         {
         "id": 85,
@@ -2026,7 +2181,8 @@
         "publisher": "OP Productions LLC",
         "developer": "Fredaikis AB",
         "release_date": "2016-11-22",
-        "freetogame_profile_url": "https://www.freetogame.com/infestation-new-z"
+        "freetogame_profile_url": "https://www.freetogame.com/infestation-new-z",
+        "isFavorite": false
         },
         {
         "id": 92,
@@ -2039,7 +2195,8 @@
         "publisher": "SkyReacher Entertainment",
         "developer": "SkyReacher Entertainment",
         "release_date": "2016-11-11",
-        "freetogame_profile_url": "https://www.freetogame.com/one-tower"
+        "freetogame_profile_url": "https://www.freetogame.com/one-tower",
+        "isFavorite": false
         },
         {
         "id": 88,
@@ -2052,7 +2209,8 @@
         "publisher": "Cygames, Inc.",
         "developer": "Cygames, Inc.",
         "release_date": "2016-10-28",
-        "freetogame_profile_url": "https://www.freetogame.com/shadowverse"
+        "freetogame_profile_url": "https://www.freetogame.com/shadowverse",
+        "isFavorite": false
         },
         {
         "id": 89,
@@ -2065,7 +2223,8 @@
         "publisher": "Artix Entertainment",
         "developer": "Artix Entertainment",
         "release_date": "2016-10-19",
-        "freetogame_profile_url": "https://www.freetogame.com/adventurequest-3d"
+        "freetogame_profile_url": "https://www.freetogame.com/adventurequest-3d",
+        "isFavorite": false
         },
         {
         "id": 93,
@@ -2078,7 +2237,8 @@
         "publisher": "Artplant",
         "developer": "Artplant",
         "release_date": "2016-09-27",
-        "freetogame_profile_url": "https://www.freetogame.com/riding-club-championships"
+        "freetogame_profile_url": "https://www.freetogame.com/riding-club-championships",
+        "isFavorite": false
         },
         {
         "id": 94,
@@ -2091,7 +2251,8 @@
         "publisher": "Stunlock Studios",
         "developer": "Stunlock Studios",
         "release_date": "2016-09-21",
-        "freetogame_profile_url": "https://www.freetogame.com/battlerite"
+        "freetogame_profile_url": "https://www.freetogame.com/battlerite",
+        "isFavorite": false
         },
         {
         "id": 95,
@@ -2104,7 +2265,8 @@
         "publisher": "Hi-Rez Studios",
         "developer": "Hi-Rez Studios",
         "release_date": "2016-09-16",
-        "freetogame_profile_url": "https://www.freetogame.com/paladins"
+        "freetogame_profile_url": "https://www.freetogame.com/paladins",
+        "isFavorite": false
         },
         {
         "id": 99,
@@ -2117,7 +2279,8 @@
         "publisher": "ZiMAD, Inc.",
         "developer": "ZiMAD, Inc.",
         "release_date": "2016-09-08",
-        "freetogame_profile_url": "https://www.freetogame.com/star-crusade"
+        "freetogame_profile_url": "https://www.freetogame.com/star-crusade",
+        "isFavorite": false
         },
         {
         "id": 102,
@@ -2130,7 +2293,8 @@
         "publisher": "Bethesda Softworks",
         "developer": "Bethesda Softworks",
         "release_date": "2016-08-04",
-        "freetogame_profile_url": "https://www.freetogame.com/elder-scrolls-legends"
+        "freetogame_profile_url": "https://www.freetogame.com/elder-scrolls-legends",
+        "isFavorite": false
         },
         {
         "id": 106,
@@ -2143,7 +2307,8 @@
         "publisher": "VALOFE",
         "developer": "WeMade",
         "release_date": "2016-07-06",
-        "freetogame_profile_url": "https://www.freetogame.com/riders-of-icarus"
+        "freetogame_profile_url": "https://www.freetogame.com/riders-of-icarus",
+        "isFavorite": false
         },
         {
         "id": 108,
@@ -2156,7 +2321,8 @@
         "publisher": "IDC/Games",
         "developer": "IDC/Games",
         "release_date": "2016-06-23",
-        "freetogame_profile_url": "https://www.freetogame.com/zula"
+        "freetogame_profile_url": "https://www.freetogame.com/zula",
+        "isFavorite": false
         },
         {
         "id": 109,
@@ -2169,7 +2335,8 @@
         "publisher": "DiP Online",
         "developer": "DiP Online",
         "release_date": "2016-06-15",
-        "freetogame_profile_url": "https://www.freetogame.com/luckcatchers"
+        "freetogame_profile_url": "https://www.freetogame.com/luckcatchers",
+        "isFavorite": false
         },
         {
         "id": 110,
@@ -2182,7 +2349,8 @@
         "publisher": "Bad Pixel",
         "developer": "Bad Pixel",
         "release_date": "2016-06-08",
-        "freetogame_profile_url": "https://www.freetogame.com/ufo-online-invasion"
+        "freetogame_profile_url": "https://www.freetogame.com/ufo-online-invasion",
+        "isFavorite": false
         },
         {
         "id": 112,
@@ -2195,7 +2363,8 @@
         "publisher": "IDC/Games",
         "developer": "Gamemag",
         "release_date": "2016-06-07",
-        "freetogame_profile_url": "https://www.freetogame.com/weapons-of-mythology"
+        "freetogame_profile_url": "https://www.freetogame.com/weapons-of-mythology",
+        "isFavorite": false
         },
         {
         "id": 116,
@@ -2208,7 +2377,8 @@
         "publisher": "IMC Games",
         "developer": "IMC Games",
         "release_date": "2016-05-10",
-        "freetogame_profile_url": "https://www.freetogame.com/tree-of-savior"
+        "freetogame_profile_url": "https://www.freetogame.com/tree-of-savior",
+        "isFavorite": false
         },
         {
         "id": 118,
@@ -2221,7 +2391,8 @@
         "publisher": "Crunchy Games",
         "developer": "Crunchy Games",
         "release_date": "2016-05-10",
-        "freetogame_profile_url": "https://www.freetogame.com/starbreak"
+        "freetogame_profile_url": "https://www.freetogame.com/starbreak",
+        "isFavorite": false
         },
         {
         "id": 119,
@@ -2234,7 +2405,8 @@
         "publisher": "Cold Tea Studio ",
         "developer": "Cold Tea Studio ",
         "release_date": "2016-05-06",
-        "freetogame_profile_url": "https://www.freetogame.com/fantasy-tales-online"
+        "freetogame_profile_url": "https://www.freetogame.com/fantasy-tales-online",
+        "isFavorite": false
         },
         {
         "id": 117,
@@ -2247,7 +2419,8 @@
         "publisher": "Apus Software",
         "developer": "Apus Software",
         "release_date": "2016-03-15",
-        "freetogame_profile_url": "https://www.freetogame.com/astral-heroes"
+        "freetogame_profile_url": "https://www.freetogame.com/astral-heroes",
+        "isFavorite": false
         },
         {
         "id": 124,
@@ -2260,7 +2433,8 @@
         "publisher": "Versus Evil",
         "developer": "BitCake Studio",
         "release_date": "2016-03-24",
-        "freetogame_profile_url": "https://www.freetogame.com/holodrive"
+        "freetogame_profile_url": "https://www.freetogame.com/holodrive",
+        "isFavorite": false
         },
         {
         "id": 304,
@@ -2273,7 +2447,8 @@
         "publisher": "ESTsoft",
         "developer": "ESTsoft",
         "release_date": "2016-02-17",
-        "freetogame_profile_url": "https://www.freetogame.com/cabal-online"
+        "freetogame_profile_url": "https://www.freetogame.com/cabal-online",
+        "isFavorite": false
         },
         {
         "id": 125,
@@ -2286,7 +2461,8 @@
         "publisher": "Atom Republic",
         "developer": "Atom Republic",
         "release_date": "2016-02-27",
-        "freetogame_profile_url": "https://www.freetogame.com/atom-universe"
+        "freetogame_profile_url": "https://www.freetogame.com/atom-universe",
+        "isFavorite": false
         },
         {
         "id": 128,
@@ -2299,7 +2475,8 @@
         "publisher": "Dream Reactor",
         "developer": "Dream Reactor",
         "release_date": "2016-02-02",
-        "freetogame_profile_url": "https://www.freetogame.com/spellweaver"
+        "freetogame_profile_url": "https://www.freetogame.com/spellweaver",
+        "isFavorite": false
         },
         {
         "id": 134,
@@ -2312,7 +2489,8 @@
         "publisher": "Rocketeer Games",
         "developer": "Rocketeer Games",
         "release_date": "2015-12-23",
-        "freetogame_profile_url": "https://www.freetogame.com/wt3"
+        "freetogame_profile_url": "https://www.freetogame.com/wt3",
+        "isFavorite": false
         },
         {
         "id": 136,
@@ -2325,7 +2503,8 @@
         "publisher": "KIXEYE",
         "developer": "KIXEYE",
         "release_date": "2015-12-15",
-        "freetogame_profile_url": "https://www.freetogame.com/vega-conflict"
+        "freetogame_profile_url": "https://www.freetogame.com/vega-conflict",
+        "isFavorite": false
         },
         {
         "id": 137,
@@ -2338,7 +2517,8 @@
         "publisher": "GDT Limited",
         "developer": "GDT Limited",
         "release_date": "2015-12-11",
-        "freetogame_profile_url": "https://www.freetogame.com/metal-war-online"
+        "freetogame_profile_url": "https://www.freetogame.com/metal-war-online",
+        "isFavorite": false
         },
         {
         "id": 139,
@@ -2351,7 +2531,8 @@
         "publisher": "Tactic Studios Inc.",
         "developer": "Tactic Studios Inc.",
         "release_date": "2015-12-03",
-        "freetogame_profile_url": "https://www.freetogame.com/immortal-empire"
+        "freetogame_profile_url": "https://www.freetogame.com/immortal-empire",
+        "isFavorite": false
         },
         {
         "id": 222,
@@ -2364,7 +2545,8 @@
         "publisher": "Piranha Games Inc.",
         "developer": "Piranha Games Inc.",
         "release_date": "2015-12-10",
-        "freetogame_profile_url": "https://www.freetogame.com/mechwarrior-online"
+        "freetogame_profile_url": "https://www.freetogame.com/mechwarrior-online",
+        "isFavorite": false
         },
         {
         "id": 7,
@@ -2377,7 +2559,8 @@
         "publisher": "My.com (Mail.ru Group)",
         "developer": "Obsidian Entertainment",
         "release_date": "2015-10-08",
-        "freetogame_profile_url": "https://www.freetogame.com/armored-warfare"
+        "freetogame_profile_url": "https://www.freetogame.com/armored-warfare",
+        "isFavorite": false
         },
         {
         "id": 149,
@@ -2390,7 +2573,8 @@
         "publisher": "U.S. Army",
         "developer": "U.S. Army",
         "release_date": "2015-10-01",
-        "freetogame_profile_url": "https://www.freetogame.com/americas-army"
+        "freetogame_profile_url": "https://www.freetogame.com/americas-army",
+        "isFavorite": false
         },
         {
         "id": 97,
@@ -2403,7 +2587,8 @@
         "publisher": "GmbH",
         "developer": "Drago Entertainment",
         "release_date": "2015-09-10",
-        "freetogame_profile_url": "https://www.freetogame.com/otherland"
+        "freetogame_profile_url": "https://www.freetogame.com/otherland",
+        "isFavorite": false
         },
         {
         "id": 121,
@@ -2416,7 +2601,8 @@
         "publisher": "Microsoft",
         "developer": "Turn 10",
         "release_date": "2015-09-15",
-        "freetogame_profile_url": "https://www.freetogame.com/forza-motorsport-6-apex"
+        "freetogame_profile_url": "https://www.freetogame.com/forza-motorsport-6-apex",
+        "isFavorite": false
         },
         {
         "id": 152,
@@ -2429,7 +2615,8 @@
         "publisher": "WARTEAM",
         "developer": "WARTEAM",
         "release_date": "2015-08-26",
-        "freetogame_profile_url": "https://www.freetogame.com/warmode"
+        "freetogame_profile_url": "https://www.freetogame.com/warmode",
+        "isFavorite": false
         },
         {
         "id": 154,
@@ -2442,7 +2629,8 @@
         "publisher": "NIKITA ONLINE",
         "developer": "NIKITA ONLINE",
         "release_date": "2015-08-18",
-        "freetogame_profile_url": "https://www.freetogame.com/sphere-3"
+        "freetogame_profile_url": "https://www.freetogame.com/sphere-3",
+        "isFavorite": false
         },
         {
         "id": 157,
@@ -2455,7 +2643,8 @@
         "publisher": "Fishing Planet LLC",
         "developer": "Fishing Planet LLC",
         "release_date": "2015-08-11",
-        "freetogame_profile_url": "https://www.freetogame.com/fishing-planet"
+        "freetogame_profile_url": "https://www.freetogame.com/fishing-planet",
+        "isFavorite": false
         },
         {
         "id": 159,
@@ -2468,7 +2657,8 @@
         "publisher": "Hoobalugalar_X",
         "developer": "Hoobalugalar_X",
         "release_date": "2015-07-18",
-        "freetogame_profile_url": "https://www.freetogame.com/codename-cure"
+        "freetogame_profile_url": "https://www.freetogame.com/codename-cure",
+        "isFavorite": false
         },
         {
         "id": 161,
@@ -2481,7 +2671,8 @@
         "publisher": "My.com",
         "developer": "Allods Team & Obsidian Entertainment Collaboration",
         "release_date": "2015-07-16",
-        "freetogame_profile_url": "https://www.freetogame.com/skyforge"
+        "freetogame_profile_url": "https://www.freetogame.com/skyforge",
+        "isFavorite": false
         },
         {
         "id": 163,
@@ -2494,7 +2685,8 @@
         "publisher": "Blue Manchu",
         "developer": "Blue Manchu",
         "release_date": "2015-07-14",
-        "freetogame_profile_url": "https://www.freetogame.com/card-hunter"
+        "freetogame_profile_url": "https://www.freetogame.com/card-hunter",
+        "isFavorite": false
         },
         {
         "id": 104,
@@ -2507,7 +2699,8 @@
         "publisher": "Bethesda Game Studios",
         "developer": "Bethesda Game Studios",
         "release_date": "2015-06-14",
-        "freetogame_profile_url": "https://www.freetogame.com/fallout-shelter"
+        "freetogame_profile_url": "https://www.freetogame.com/fallout-shelter",
+        "isFavorite": false
         },
         {
         "id": 167,
@@ -2520,7 +2713,8 @@
         "publisher": "Mortal Moments",
         "developer": "John Carver",
         "release_date": "2015-06-19",
-        "freetogame_profile_url": "https://www.freetogame.com/salem"
+        "freetogame_profile_url": "https://www.freetogame.com/salem",
+        "isFavorite": false
         },
         {
         "id": 168,
@@ -2533,7 +2727,8 @@
         "publisher": " Blizzard Entertainment",
         "developer": " Blizzard Entertainment",
         "release_date": "2015-06-02",
-        "freetogame_profile_url": "https://www.freetogame.com/heroes-of-the-storm"
+        "freetogame_profile_url": "https://www.freetogame.com/heroes-of-the-storm",
+        "isFavorite": false
         },
         {
         "id": 169,
@@ -2546,7 +2741,8 @@
         "publisher": "\r\nWarchest Ltd.",
         "developer": "Splash Damage",
         "release_date": "2015-06-01",
-        "freetogame_profile_url": "https://www.freetogame.com/dirty-bomb"
+        "freetogame_profile_url": "https://www.freetogame.com/dirty-bomb",
+        "isFavorite": false
         },
         {
         "id": 173,
@@ -2559,7 +2755,8 @@
         "publisher": "Jagex",
         "developer": "Jagex, Artplant",
         "release_date": "2015-04-30",
-        "freetogame_profile_url": "https://www.freetogame.com/block-n-load"
+        "freetogame_profile_url": "https://www.freetogame.com/block-n-load",
+        "isFavorite": false
         },
         {
         "id": 175,
@@ -2572,7 +2769,8 @@
         "publisher": "Vostok Games",
         "developer": "Vostok Games",
         "release_date": "2015-04-02",
-        "freetogame_profile_url": "https://www.freetogame.com/survarium"
+        "freetogame_profile_url": "https://www.freetogame.com/survarium",
+        "isFavorite": false
         },
         {
         "id": 177,
@@ -2585,7 +2783,8 @@
         "publisher": "Neople",
         "developer": "Neople (Subsidiary of Nexon)",
         "release_date": "2015-03-24",
-        "freetogame_profile_url": "https://www.freetogame.com/dungeon-fighter-online"
+        "freetogame_profile_url": "https://www.freetogame.com/dungeon-fighter-online",
+        "isFavorite": false
         },
         {
         "id": 56,
@@ -2598,7 +2797,8 @@
         "publisher": "Omniconnection",
         "developer": "Omniconnection",
         "release_date": "2015-02-04",
-        "freetogame_profile_url": "https://www.freetogame.com/grimoire-manastorm"
+        "freetogame_profile_url": "https://www.freetogame.com/grimoire-manastorm",
+        "isFavorite": false
         },
         {
         "id": 179,
@@ -2611,7 +2811,8 @@
         "publisher": "Atelier 801",
         "developer": "Atelier 801",
         "release_date": "2015-01-30",
-        "freetogame_profile_url": "https://www.freetogame.com/transformice"
+        "freetogame_profile_url": "https://www.freetogame.com/transformice",
+        "isFavorite": false
         },
         {
         "id": 180,
@@ -2624,7 +2825,8 @@
         "publisher": "Doctor Entertainment",
         "developer": "Doctor Entertainment",
         "release_date": "2015-01-29",
-        "freetogame_profile_url": "https://www.freetogame.com/gear-up"
+        "freetogame_profile_url": "https://www.freetogame.com/gear-up",
+        "isFavorite": false
         },
         {
         "id": 181,
@@ -2637,7 +2839,8 @@
         "publisher": "Archive Entertainment ",
         "developer": "Archive Entertainment ",
         "release_date": "2015-01-26",
-        "freetogame_profile_url": "https://www.freetogame.com/8bitmmo"
+        "freetogame_profile_url": "https://www.freetogame.com/8bitmmo",
+        "isFavorite": false
         },
         {
         "id": 182,
@@ -2650,7 +2853,8 @@
         "publisher": "Trendy Entertainment",
         "developer": "Trendy Entertainment",
         "release_date": "2014-12-05",
-        "freetogame_profile_url": "https://www.freetogame.com/dungeon-defenders-2"
+        "freetogame_profile_url": "https://www.freetogame.com/dungeon-defenders-2",
+        "isFavorite": false
         },
         {
         "id": 184,
@@ -2663,7 +2867,8 @@
         "publisher": "Shumkov Dmitriy",
         "developer": "Shumkov Dmitriy",
         "release_date": "2014-11-05",
-        "freetogame_profile_url": "https://www.freetogame.com/blockade-3d"
+        "freetogame_profile_url": "https://www.freetogame.com/blockade-3d",
+        "isFavorite": false
         },
         {
         "id": 185,
@@ -2676,7 +2881,8 @@
         "publisher": "Hunted Cow Studios",
         "developer": "Hunted Cow Studios",
         "release_date": "2014-11-05",
-        "freetogame_profile_url": "https://www.freetogame.com/eldevin"
+        "freetogame_profile_url": "https://www.freetogame.com/eldevin",
+        "isFavorite": false
         },
         {
         "id": 186,
@@ -2689,7 +2895,8 @@
         "publisher": "Double Action Factory ",
         "developer": "Double Action Factory ",
         "release_date": "2014-10-23",
-        "freetogame_profile_url": "https://www.freetogame.com/double-action"
+        "freetogame_profile_url": "https://www.freetogame.com/double-action",
+        "isFavorite": false
         },
         {
         "id": 187,
@@ -2702,7 +2909,8 @@
         "publisher": "Desert Owl Games LLC ",
         "developer": "Desert Owl Games LLC ",
         "release_date": "2014-10-15",
-        "freetogame_profile_url": "https://www.freetogame.com/pox-nora"
+        "freetogame_profile_url": "https://www.freetogame.com/pox-nora",
+        "isFavorite": false
         },
         {
         "id": 188,
@@ -2715,7 +2923,8 @@
         "publisher": "Nexon Europe GmbH",
         "developer": "Nexon",
         "release_date": "2014-10-07",
-        "freetogame_profile_url": "https://www.freetogame.com/counter-strike-nexon"
+        "freetogame_profile_url": "https://www.freetogame.com/counter-strike-nexon",
+        "isFavorite": false
         },
         {
         "id": 189,
@@ -2728,7 +2937,8 @@
         "publisher": "Papaya Play ",
         "developer": "KOEI TECMO GAMES CO., LTD. ",
         "release_date": "2014-10-03",
-        "freetogame_profile_url": "https://www.freetogame.com/uncharted-waters-online"
+        "freetogame_profile_url": "https://www.freetogame.com/uncharted-waters-online",
+        "isFavorite": false
         },
         {
         "id": 10,
@@ -2741,7 +2951,8 @@
         "publisher": "Kakao Games",
         "developer": "XL Games",
         "release_date": "2014-09-04",
-        "freetogame_profile_url": "https://www.freetogame.com/archeage"
+        "freetogame_profile_url": "https://www.freetogame.com/archeage",
+        "isFavorite": false
         },
         {
         "id": 192,
@@ -2754,7 +2965,8 @@
         "publisher": "Ankama Games",
         "developer": "Ankama Studio",
         "release_date": "2014-09-19",
-        "freetogame_profile_url": "https://www.freetogame.com/wakfu"
+        "freetogame_profile_url": "https://www.freetogame.com/wakfu",
+        "isFavorite": false
         },
         {
         "id": 193,
@@ -2767,7 +2979,8 @@
         "publisher": "Lightmare Studios",
         "developer": "Lightmare Studios",
         "release_date": "2014-09-05",
-        "freetogame_profile_url": "https://www.freetogame.com/infinity-wars"
+        "freetogame_profile_url": "https://www.freetogame.com/infinity-wars",
+        "isFavorite": false
         },
         {
         "id": 195,
@@ -2780,7 +2993,8 @@
         "publisher": "Suba Games ",
         "developer": "GamePrix ",
         "release_date": "2014-08-15",
-        "freetogame_profile_url": "https://www.freetogame.com/divine-souls"
+        "freetogame_profile_url": "https://www.freetogame.com/divine-souls",
+        "isFavorite": false
         },
         {
         "id": 196,
@@ -2793,7 +3007,8 @@
         "publisher": "Cosmic Cow LLC",
         "developer": "Cosmic Cow LLC",
         "release_date": "2014-08-13",
-        "freetogame_profile_url": "https://www.freetogame.com/cubic-castles"
+        "freetogame_profile_url": "https://www.freetogame.com/cubic-castles",
+        "isFavorite": false
         },
         {
         "id": 198,
@@ -2806,7 +3021,8 @@
         "publisher": "Playful Corporation",
         "developer": "Playful Corporation",
         "release_date": "2014-08-12",
-        "freetogame_profile_url": "https://www.freetogame.com/creativerse"
+        "freetogame_profile_url": "https://www.freetogame.com/creativerse",
+        "isFavorite": false
         },
         {
         "id": 199,
@@ -2819,7 +3035,8 @@
         "publisher": "1C Online Games ",
         "developer": "Katauri ",
         "release_date": "2014-08-06",
-        "freetogame_profile_url": "https://www.freetogame.com/royal-quest"
+        "freetogame_profile_url": "https://www.freetogame.com/royal-quest",
+        "isFavorite": false
         },
         {
         "id": 200,
@@ -2832,7 +3049,8 @@
         "publisher": "Masthead Studios Ltd, Thegamewallstudios, Gamigo AG",
         "developer": "Masthead Studios Ltd",
         "release_date": "2014-08-05",
-        "freetogame_profile_url": "https://www.freetogame.com/guns-and-robots"
+        "freetogame_profile_url": "https://www.freetogame.com/guns-and-robots",
+        "isFavorite": false
         },
         {
         "id": 202,
@@ -2845,7 +3063,8 @@
         "publisher": "Reto-Moto",
         "developer": "Reto-Moto",
         "release_date": "2014-07-11",
-        "freetogame_profile_url": "https://www.freetogame.com/heroes-and-generals"
+        "freetogame_profile_url": "https://www.freetogame.com/heroes-and-generals",
+        "isFavorite": false
         },
         {
         "id": 203,
@@ -2858,7 +3077,8 @@
         "publisher": "Freejam",
         "developer": "Freejam",
         "release_date": "2014-07-08",
-        "freetogame_profile_url": "https://www.freetogame.com/robocraft"
+        "freetogame_profile_url": "https://www.freetogame.com/robocraft",
+        "isFavorite": false
         },
         {
         "id": 204,
@@ -2871,7 +3091,8 @@
         "publisher": "Smartly Dressed Games",
         "developer": "Smartly Dressed Games",
         "release_date": "2014-07-08",
-        "freetogame_profile_url": "https://www.freetogame.com/unturned"
+        "freetogame_profile_url": "https://www.freetogame.com/unturned",
+        "isFavorite": false
         },
         {
         "id": 207,
@@ -2884,7 +3105,8 @@
         "publisher": "Crytek",
         "developer": "Crytek",
         "release_date": "2014-07-01",
-        "freetogame_profile_url": "https://www.freetogame.com/warface"
+        "freetogame_profile_url": "https://www.freetogame.com/warface",
+        "isFavorite": false
         },
         {
         "id": 209,
@@ -2897,7 +3119,8 @@
         "publisher": "Joycity",
         "developer": "Joycity",
         "release_date": "2014-06-20",
-        "freetogame_profile_url": "https://www.freetogame.com/freestyle2-street-basketball"
+        "freetogame_profile_url": "https://www.freetogame.com/freestyle2-street-basketball",
+        "isFavorite": false
         },
         {
         "id": 210,
@@ -2910,7 +3133,8 @@
         "publisher": "Fistful of Frags Team",
         "developer": "Fistful of Frags Team",
         "release_date": "2014-05-10",
-        "freetogame_profile_url": "https://www.freetogame.com/fistful-of-frags"
+        "freetogame_profile_url": "https://www.freetogame.com/fistful-of-frags",
+        "isFavorite": false
         },
         {
         "id": 211,
@@ -2923,7 +3147,8 @@
         "publisher": "MAIET Entertainme",
         "developer": "MAIET Entertainme",
         "release_date": "2014-05-01",
-        "freetogame_profile_url": "https://www.freetogame.com/gunz-2"
+        "freetogame_profile_url": "https://www.freetogame.com/gunz-2",
+        "isFavorite": false
         },
         {
         "id": 213,
@@ -2936,7 +3161,8 @@
         "publisher": "CodeBrush Games",
         "developer": "CodeBrush Games",
         "release_date": "2014-04-25",
-        "freetogame_profile_url": "https://www.freetogame.com/archeblade"
+        "freetogame_profile_url": "https://www.freetogame.com/archeblade",
+        "isFavorite": false
         },
         {
         "id": 214,
@@ -2949,7 +3175,8 @@
         "publisher": "Mad Otter Games",
         "developer": "Mad Otter Games",
         "release_date": "2014-04-17",
-        "freetogame_profile_url": "https://www.freetogame.com/villagers-and-heroes"
+        "freetogame_profile_url": "https://www.freetogame.com/villagers-and-heroes",
+        "isFavorite": false
         },
         {
         "id": 215,
@@ -2962,7 +3189,8 @@
         "publisher": "Hex Entertainment, Gameforge",
         "developer": "Cryptozoic Entertainment",
         "release_date": "2014-04-11",
-        "freetogame_profile_url": "https://www.freetogame.com/hex"
+        "freetogame_profile_url": "https://www.freetogame.com/hex",
+        "isFavorite": false
         },
         {
         "id": 239,
@@ -2975,7 +3203,8 @@
         "publisher": "Cyanide",
         "developer": "Cyanide",
         "release_date": "2014-02-04",
-        "freetogame_profile_url": "https://www.freetogame.com/dogs-war-online"
+        "freetogame_profile_url": "https://www.freetogame.com/dogs-war-online",
+        "isFavorite": false
         },
         {
         "id": 220,
@@ -2988,7 +3217,8 @@
         "publisher": "Blizzard Entertainment",
         "developer": "Blizzard Entertainment",
         "release_date": "2014-01-21",
-        "freetogame_profile_url": "https://www.freetogame.com/hearthstone-heroes-warcraft"
+        "freetogame_profile_url": "https://www.freetogame.com/hearthstone-heroes-warcraft",
+        "isFavorite": false
         },
         {
         "id": 221,
@@ -3001,7 +3231,8 @@
         "publisher": "Suba Games",
         "developer": "Playcoco (Subsidiary of Gamania)",
         "release_date": "2014-01-10",
-        "freetogame_profile_url": "https://www.freetogame.com/lucent-heart"
+        "freetogame_profile_url": "https://www.freetogame.com/lucent-heart",
+        "isFavorite": false
         },
         {
         "id": 206,
@@ -3014,7 +3245,8 @@
         "publisher": "X-Legend",
         "developer": "X-Legend",
         "release_date": "2013-12-23",
-        "freetogame_profile_url": "https://www.freetogame.com/aura-kingdom"
+        "freetogame_profile_url": "https://www.freetogame.com/aura-kingdom",
+        "isFavorite": false
         },
         {
         "id": 224,
@@ -3027,7 +3259,8 @@
         "publisher": "Wargaming",
         "developer": "Wargaming",
         "release_date": "2013-11-12",
-        "freetogame_profile_url": "https://www.freetogame.com/world-of-warplanes"
+        "freetogame_profile_url": "https://www.freetogame.com/world-of-warplanes",
+        "isFavorite": false
         },
         {
         "id": 225,
@@ -3040,7 +3273,8 @@
         "publisher": "Trion Worlds",
         "developer": "Trion Worlds",
         "release_date": "2013-10-24",
-        "freetogame_profile_url": "https://www.freetogame.com/rift"
+        "freetogame_profile_url": "https://www.freetogame.com/rift",
+        "isFavorite": false
         },
         {
         "id": 226,
@@ -3053,7 +3287,8 @@
         "publisher": "Grinding Gear Games",
         "developer": "Grinding Gear Games",
         "release_date": "2013-10-23",
-        "freetogame_profile_url": "https://www.freetogame.com/path-of-exile"
+        "freetogame_profile_url": "https://www.freetogame.com/path-of-exile",
+        "isFavorite": false
         },
         {
         "id": 229,
@@ -3066,7 +3301,8 @@
         "publisher": "Valve",
         "developer": "Valve",
         "release_date": "2013-07-09",
-        "freetogame_profile_url": "https://www.freetogame.com/dota-2"
+        "freetogame_profile_url": "https://www.freetogame.com/dota-2",
+        "isFavorite": false
         },
         {
         "id": 230,
@@ -3079,7 +3315,8 @@
         "publisher": "Gravity Interactive",
         "developer": "Gravity, Inc.",
         "release_date": "2013-05-01",
-        "freetogame_profile_url": "https://www.freetogame.com/ragnarok-online-2"
+        "freetogame_profile_url": "https://www.freetogame.com/ragnarok-online-2",
+        "isFavorite": false
         },
         {
         "id": 231,
@@ -3092,7 +3329,8 @@
         "publisher": "Panzar",
         "developer": "Troxit Service",
         "release_date": "2013-04-12",
-        "freetogame_profile_url": "https://www.freetogame.com/panzar"
+        "freetogame_profile_url": "https://www.freetogame.com/panzar",
+        "isFavorite": false
         },
         {
         "id": 233,
@@ -3105,7 +3343,8 @@
         "publisher": "Reverie World Studios, INC",
         "developer": "Reverie World Studios, INC",
         "release_date": "2013-04-01",
-        "freetogame_profile_url": "https://www.freetogame.com/kingdom-wars"
+        "freetogame_profile_url": "https://www.freetogame.com/kingdom-wars",
+        "isFavorite": false
         },
         {
         "id": 234,
@@ -3118,7 +3357,8 @@
         "publisher": "NGD Studios",
         "developer": "NGD Studios",
         "release_date": "2013-02-27",
-        "freetogame_profile_url": "https://www.freetogame.com/champions-of-regnum"
+        "freetogame_profile_url": "https://www.freetogame.com/champions-of-regnum",
+        "isFavorite": false
         },
         {
         "id": 235,
@@ -3131,7 +3371,8 @@
         "publisher": "Gaijin Entertainment",
         "developer": "Star Gem Inc.",
         "release_date": "2013-02-28",
-        "freetogame_profile_url": "https://www.freetogame.com/star-conflict"
+        "freetogame_profile_url": "https://www.freetogame.com/star-conflict",
+        "isFavorite": false
         },
         {
         "id": 240,
@@ -3144,7 +3385,8 @@
         "publisher": "momoStorm Entertainment",
         "developer": "momoStorm",
         "release_date": "2013-01-29",
-        "freetogame_profile_url": "https://www.freetogame.com/epic-card-battle"
+        "freetogame_profile_url": "https://www.freetogame.com/epic-card-battle",
+        "isFavorite": false
         },
         {
         "id": 232,
@@ -3157,7 +3399,8 @@
         "publisher": "Snail Games",
         "developer": "Snail Games",
         "release_date": "2012-12-20",
-        "freetogame_profile_url": "https://www.freetogame.com/age-of-wushu"
+        "freetogame_profile_url": "https://www.freetogame.com/age-of-wushu",
+        "isFavorite": false
         },
         {
         "id": 241,
@@ -3170,7 +3413,8 @@
         "publisher": "Daybreak Games",
         "developer": "Daybreak Games",
         "release_date": "2012-12-13",
-        "freetogame_profile_url": "https://www.freetogame.com/everquest"
+        "freetogame_profile_url": "https://www.freetogame.com/everquest",
+        "isFavorite": false
         },
         {
         "id": 242,
@@ -3183,7 +3427,8 @@
         "publisher": "Nexon America Inc. ",
         "developer": "NEXON Korea Corp.",
         "release_date": "2012-12-06",
-        "freetogame_profile_url": "https://www.freetogame.com/mabinogi"
+        "freetogame_profile_url": "https://www.freetogame.com/mabinogi",
+        "isFavorite": false
         },
         {
         "id": 243,
@@ -3196,7 +3441,8 @@
         "publisher": "Daybreak Games",
         "developer": "Daybreak Games",
         "release_date": "2012-11-21",
-        "freetogame_profile_url": "https://www.freetogame.com/planetside-2"
+        "freetogame_profile_url": "https://www.freetogame.com/planetside-2",
+        "isFavorite": false
         },
         {
         "id": 244,
@@ -3209,7 +3455,8 @@
         "publisher": "Carbon Games",
         "developer": "Carbon Games",
         "release_date": "2012-11-08",
-        "freetogame_profile_url": "https://www.freetogame.com/airmech"
+        "freetogame_profile_url": "https://www.freetogame.com/airmech",
+        "isFavorite": false
         },
         {
         "id": 246,
@@ -3222,7 +3469,8 @@
         "publisher": "KingsIsle Entertainment",
         "developer": "KingsIsle Entertainment",
         "release_date": "2012-10-15",
-        "freetogame_profile_url": "https://www.freetogame.com/pirate-101"
+        "freetogame_profile_url": "https://www.freetogame.com/pirate-101",
+        "isFavorite": false
         },
         {
         "id": 248,
@@ -3235,7 +3483,8 @@
         "publisher": "Webzen",
         "developer": "NHN Games (Acquired by Webzen)",
         "release_date": "2012-09-13",
-        "freetogame_profile_url": "https://www.freetogame.com/c9"
+        "freetogame_profile_url": "https://www.freetogame.com/c9",
+        "isFavorite": false
         },
         {
         "id": 24,
@@ -3248,7 +3497,8 @@
         "publisher": "Valve",
         "developer": "Valve, Hidden Path Entertainment",
         "release_date": "2012-08-21",
-        "freetogame_profile_url": "https://www.freetogame.com/counter-strike-global-offensive"
+        "freetogame_profile_url": "https://www.freetogame.com/counter-strike-global-offensive",
+        "isFavorite": false
         },
         {
         "id": 453,
@@ -3261,7 +3511,8 @@
         "publisher": "Warner Bros. Interactive Entertainment",
         "developer": "Monolith Productions, Inc.",
         "release_date": "2012-08-31",
-        "freetogame_profile_url": "https://www.freetogame.com/gotham-city-impostors"
+        "freetogame_profile_url": "https://www.freetogame.com/gotham-city-impostors",
+        "isFavorite": false
         },
         {
         "id": 249,
@@ -3274,7 +3525,8 @@
         "publisher": "Marxnet",
         "developer": "Marxnet",
         "release_date": "2012-07-18",
-        "freetogame_profile_url": "https://www.freetogame.com/rpg-mo"
+        "freetogame_profile_url": "https://www.freetogame.com/rpg-mo",
+        "isFavorite": false
         },
         {
         "id": 256,
@@ -3287,7 +3539,8 @@
         "publisher": "Kabam",
         "developer": "Wild Shadow Studios",
         "release_date": "2012-02-21",
-        "freetogame_profile_url": "https://www.freetogame.com/realm-mad-god"
+        "freetogame_profile_url": "https://www.freetogame.com/realm-mad-god",
+        "isFavorite": false
         },
         {
         "id": 257,
@@ -3300,7 +3553,8 @@
         "publisher": "Electronic Arts",
         "developer": "Bioware",
         "release_date": "2011-12-20",
-        "freetogame_profile_url": "https://www.freetogame.com/swtor"
+        "freetogame_profile_url": "https://www.freetogame.com/swtor",
+        "isFavorite": false
         },
         {
         "id": 292,
@@ -3313,7 +3567,8 @@
         "publisher": "Snail Games",
         "developer": "Snail Games",
         "release_date": "2011-11-11",
-        "freetogame_profile_url": "https://www.freetogame.com/5street"
+        "freetogame_profile_url": "https://www.freetogame.com/5street",
+        "isFavorite": false
         },
         {
         "id": 261,
@@ -3326,7 +3581,8 @@
         "publisher": "Lever Games",
         "developer": "No More Room in Hell Team",
         "release_date": "2011-10-31",
-        "freetogame_profile_url": "https://www.freetogame.com/no-more-room-in-hell"
+        "freetogame_profile_url": "https://www.freetogame.com/no-more-room-in-hell",
+        "isFavorite": false
         },
         {
         "id": 262,
@@ -3339,7 +3595,8 @@
         "publisher": "MOVE ON USA CO.",
         "developer": "Move Games Co., Ltd.",
         "release_date": "2011-10-20",
-        "freetogame_profile_url": "https://www.freetogame.com/digimon-masters-online"
+        "freetogame_profile_url": "https://www.freetogame.com/digimon-masters-online",
+        "isFavorite": false
         },
         {
         "id": 264,
@@ -3352,7 +3609,8 @@
         "publisher": " Eyedentity Games Inc.",
         "developer": " Eyedentity Games Inc.",
         "release_date": "2011-09-28",
-        "freetogame_profile_url": "https://www.freetogame.com/dragon-nest"
+        "freetogame_profile_url": "https://www.freetogame.com/dragon-nest",
+        "isFavorite": false
         },
         {
         "id": 267,
@@ -3365,7 +3623,8 @@
         "publisher": "Suba Games",
         "developer": "Kingsoft",
         "release_date": "2011-07-08",
-        "freetogame_profile_url": "https://www.freetogame.com/mat"
+        "freetogame_profile_url": "https://www.freetogame.com/mat",
+        "isFavorite": false
         },
         {
         "id": 269,
@@ -3378,7 +3637,8 @@
         "publisher": "SEGA",
         "developer": "Three Rings",
         "release_date": "2011-06-15",
-        "freetogame_profile_url": "https://www.freetogame.com/spiral-knights"
+        "freetogame_profile_url": "https://www.freetogame.com/spiral-knights",
+        "isFavorite": false
         },
         {
         "id": 271,
@@ -3391,7 +3651,8 @@
         "publisher": "GamenGame",
         "developer": "Maxonsoft",
         "release_date": "2011-05-19",
-        "freetogame_profile_url": "https://www.freetogame.com/asda-global"
+        "freetogame_profile_url": "https://www.freetogame.com/asda-global",
+        "isFavorite": false
         },
         {
         "id": 60,
@@ -3404,7 +3665,8 @@
         "publisher": "Bethesda Softworks",
         "developer": "Splash Damage",
         "release_date": "2011-05-09",
-        "freetogame_profile_url": "https://www.freetogame.com/brink"
+        "freetogame_profile_url": "https://www.freetogame.com/brink",
+        "isFavorite": false
         },
         {
         "id": 272,
@@ -3417,7 +3679,8 @@
         "publisher": "My.com",
         "developer": "Allods Team",
         "release_date": "2011-04-26",
-        "freetogame_profile_url": "https://www.freetogame.com/allods-online"
+        "freetogame_profile_url": "https://www.freetogame.com/allods-online",
+        "isFavorite": false
         },
         {
         "id": 205,
@@ -3430,7 +3693,8 @@
         "publisher": "KOG Games",
         "developer": "KOG",
         "release_date": "2011-03-23",
-        "freetogame_profile_url": "https://www.freetogame.com/elsword"
+        "freetogame_profile_url": "https://www.freetogame.com/elsword",
+        "isFavorite": false
         },
         {
         "id": 260,
@@ -3443,7 +3707,8 @@
         "publisher": "Daybreak Games",
         "developer": "Daybreak Games",
         "release_date": "2011-01-11",
-        "freetogame_profile_url": "https://www.freetogame.com/dcuo"
+        "freetogame_profile_url": "https://www.freetogame.com/dcuo",
+        "isFavorite": false
         },
         {
         "id": 273,
@@ -3456,7 +3721,8 @@
         "publisher": "Stunlock Studios",
         "developer": "Stunlock Studios",
         "release_date": "2011-01-13",
-        "freetogame_profile_url": "https://www.freetogame.com/bloodline-champions"
+        "freetogame_profile_url": "https://www.freetogame.com/bloodline-champions",
+        "isFavorite": false
         },
         {
         "id": 274,
@@ -3469,7 +3735,8 @@
         "publisher": "CyberStep",
         "developer": "CyberStep",
         "release_date": "2010-12-16",
-        "freetogame_profile_url": "https://www.freetogame.com/getamped-2"
+        "freetogame_profile_url": "https://www.freetogame.com/getamped-2",
+        "isFavorite": false
         },
         {
         "id": 275,
@@ -3482,7 +3749,8 @@
         "publisher": "Gravity Interactive",
         "developer": "Gravity Interactive",
         "release_date": "2010-10-28",
-        "freetogame_profile_url": "https://www.freetogame.com/dragon-saga"
+        "freetogame_profile_url": "https://www.freetogame.com/dragon-saga",
+        "isFavorite": false
         },
         {
         "id": 276,
@@ -3495,7 +3763,8 @@
         "publisher": "Nexon",
         "developer": "devCAT",
         "release_date": "2010-10-13",
-        "freetogame_profile_url": "https://www.freetogame.com/vindictus"
+        "freetogame_profile_url": "https://www.freetogame.com/vindictus",
+        "isFavorite": false
         },
         {
         "id": 277,
@@ -3508,7 +3777,8 @@
         "publisher": "HanbitSoft",
         "developer": "JoyImpact",
         "release_date": "2010-08-27",
-        "freetogame_profile_url": "https://www.freetogame.com/aika-online"
+        "freetogame_profile_url": "https://www.freetogame.com/aika-online",
+        "isFavorite": false
         },
         {
         "id": 258,
@@ -3521,7 +3791,8 @@
         "publisher": "Reloaded Games",
         "developer": "Reloaded Productions",
         "release_date": "2010-06-29",
-        "freetogame_profile_url": "https://www.freetogame.com/apb"
+        "freetogame_profile_url": "https://www.freetogame.com/apb",
+        "isFavorite": false
         },
         {
         "id": 278,
@@ -3534,7 +3805,8 @@
         "publisher": "Star Vault AB ",
         "developer": "Star Vault AB ",
         "release_date": "2010-06-09",
-        "freetogame_profile_url": "https://www.freetogame.com/mortal-online"
+        "freetogame_profile_url": "https://www.freetogame.com/mortal-online",
+        "isFavorite": false
         },
         {
         "id": 281,
@@ -3547,7 +3819,8 @@
         "publisher": "X-Legend Entertainment",
         "developer": "X-Legend Entertainment",
         "release_date": "2009-12-01",
-        "freetogame_profile_url": "https://www.freetogame.com/grand-fantasia"
+        "freetogame_profile_url": "https://www.freetogame.com/grand-fantasia",
+        "isFavorite": false
         },
         {
         "id": 286,
@@ -3560,7 +3833,8 @@
         "publisher": "Riot Games",
         "developer": "Riot Games",
         "release_date": "2009-10-27",
-        "freetogame_profile_url": "https://www.freetogame.com/league-of-legends"
+        "freetogame_profile_url": "https://www.freetogame.com/league-of-legends",
+        "isFavorite": false
         },
         {
         "id": 287,
@@ -3573,7 +3847,8 @@
         "publisher": "RedFox Games",
         "developer": "SG Data",
         "release_date": "2009-09-09",
-        "freetogame_profile_url": "https://www.freetogame.com/twelve-sky-2"
+        "freetogame_profile_url": "https://www.freetogame.com/twelve-sky-2",
+        "isFavorite": false
         },
         {
         "id": 288,
@@ -3586,7 +3861,8 @@
         "publisher": "Perfect World Entertainment",
         "developer": "Cryptic Studios",
         "release_date": "2009-09-01",
-        "freetogame_profile_url": "https://www.freetogame.com/champions-online"
+        "freetogame_profile_url": "https://www.freetogame.com/champions-online",
+        "isFavorite": false
         },
         {
         "id": 280,
@@ -3599,7 +3875,8 @@
         "publisher": "Aeria Games",
         "developer": "Softnyx",
         "release_date": "2009-07-09",
-        "freetogame_profile_url": "https://www.freetogame.com/wolfteam"
+        "freetogame_profile_url": "https://www.freetogame.com/wolfteam",
+        "isFavorite": false
         },
         {
         "id": 290,
@@ -3612,7 +3889,8 @@
         "publisher": "GameForge",
         "developer": "Runewalker Entertainment",
         "release_date": "2009-03-19",
-        "freetogame_profile_url": "https://www.freetogame.com/runes-of-magic"
+        "freetogame_profile_url": "https://www.freetogame.com/runes-of-magic",
+        "isFavorite": false
         },
         {
         "id": 291,
@@ -3625,7 +3903,8 @@
         "publisher": "Expansive Worlds , Avalanche Studios",
         "developer": "Expansive Worlds , Avalanche Studios",
         "release_date": "2009-03-05",
-        "freetogame_profile_url": "https://www.freetogame.com/thehunter"
+        "freetogame_profile_url": "https://www.freetogame.com/thehunter",
+        "isFavorite": false
         },
         {
         "id": 254,
@@ -3638,7 +3917,8 @@
         "publisher": "NCSOFT",
         "developer": "NCSOFT",
         "release_date": "2008-11-25",
-        "freetogame_profile_url": "https://www.freetogame.com/aion"
+        "freetogame_profile_url": "https://www.freetogame.com/aion",
+        "isFavorite": false
         },
         {
         "id": 293,
@@ -3651,7 +3931,8 @@
         "publisher": "VALOFE",
         "developer": "NDOORS Corporation",
         "release_date": "2008-10-30",
-        "freetogame_profile_url": "https://www.freetogame.com/atlantica-online"
+        "freetogame_profile_url": "https://www.freetogame.com/atlantica-online",
+        "isFavorite": false
         },
         {
         "id": 295,
@@ -3664,7 +3945,8 @@
         "publisher": "Netts Corporation",
         "developer": "Netts Corporation",
         "release_date": "2008-10-15",
-        "freetogame_profile_url": "https://www.freetogame.com/florensia"
+        "freetogame_profile_url": "https://www.freetogame.com/florensia",
+        "isFavorite": false
         },
         {
         "id": 306,
@@ -3677,7 +3959,8 @@
         "publisher": "Zemi Interactive",
         "developer": "Zemi Interactive",
         "release_date": "2008-10-20",
-        "freetogame_profile_url": "https://www.freetogame.com/4story"
+        "freetogame_profile_url": "https://www.freetogame.com/4story",
+        "isFavorite": false
         },
         {
         "id": 297,
@@ -3690,7 +3973,8 @@
         "publisher": "KingsIsle Entertainment",
         "developer": "KingsIsle Entertainment",
         "release_date": "2008-09-02",
-        "freetogame_profile_url": "https://www.freetogame.com/wizard101"
+        "freetogame_profile_url": "https://www.freetogame.com/wizard101",
+        "isFavorite": false
         },
         {
         "id": 298,
@@ -3703,7 +3987,8 @@
         "publisher": "Beijing Perfect World, Perfect World Entertainment",
         "developer": "Beijing Perfect World",
         "release_date": "2008-09-02",
-        "freetogame_profile_url": "https://www.freetogame.com/pwi"
+        "freetogame_profile_url": "https://www.freetogame.com/pwi",
+        "isFavorite": false
         },
         {
         "id": 319,
@@ -3716,7 +4001,8 @@
         "publisher": "Suba Games",
         "developer": "MasangSoft",
         "release_date": "2008-08-29",
-        "freetogame_profile_url": "https://www.freetogame.com/ace-online"
+        "freetogame_profile_url": "https://www.freetogame.com/ace-online",
+        "isFavorite": false
         },
         {
         "id": 300,
@@ -3729,7 +4015,8 @@
         "publisher": "Playwith Interactive",
         "developer": "Playwith Interactive",
         "release_date": "2008-05-28",
-        "freetogame_profile_url": "https://www.freetogame.com/rohan-blood-feud"
+        "freetogame_profile_url": "https://www.freetogame.com/rohan-blood-feud",
+        "isFavorite": false
         },
         {
         "id": 301,
@@ -3742,7 +4029,8 @@
         "publisher": "Funcom",
         "developer": "Funcom",
         "release_date": "2008-05-20",
-        "freetogame_profile_url": "https://www.freetogame.com/age-of-conan"
+        "freetogame_profile_url": "https://www.freetogame.com/age-of-conan",
+        "isFavorite": false
         },
         {
         "id": 303,
@@ -3755,7 +4043,8 @@
         "publisher": "Silverlode Interactive",
         "developer": "Silverlode Interactive , Wasatch Games",
         "release_date": "2008-02-26",
-        "freetogame_profile_url": "https://www.freetogame.com/saga"
+        "freetogame_profile_url": "https://www.freetogame.com/saga",
+        "isFavorite": false
         },
         {
         "id": 305,
@@ -3768,7 +4057,8 @@
         "publisher": "gamigo AG",
         "developer": "Onson Soft",
         "release_date": "2008-02-01",
-        "freetogame_profile_url": "https://www.freetogame.com/fiesta-online"
+        "freetogame_profile_url": "https://www.freetogame.com/fiesta-online",
+        "isFavorite": false
         },
         {
         "id": 307,
@@ -3781,7 +4071,8 @@
         "publisher": "Aeria Games",
         "developer": "Aeria Games",
         "release_date": "2007-12-24",
-        "freetogame_profile_url": "https://www.freetogame.com/shaiya"
+        "freetogame_profile_url": "https://www.freetogame.com/shaiya",
+        "isFavorite": false
         },
         {
         "id": 308,
@@ -3794,7 +4085,8 @@
         "publisher": "I Got Games",
         "developer": "UserJoy Technology",
         "release_date": "2007-12-01",
-        "freetogame_profile_url": "https://www.freetogame.com/angels-online"
+        "freetogame_profile_url": "https://www.freetogame.com/angels-online",
+        "isFavorite": false
         },
         {
         "id": 309,
@@ -3807,7 +4099,8 @@
         "publisher": "YNK Interactive",
         "developer": "YNK Interactive",
         "release_date": "2007-11-19",
-        "freetogame_profile_url": "https://www.freetogame.com/seal-online"
+        "freetogame_profile_url": "https://www.freetogame.com/seal-online",
+        "isFavorite": false
         },
         {
         "id": 310,
@@ -3820,7 +4113,8 @@
         "publisher": "Valve",
         "developer": "Valve",
         "release_date": "2007-10-10",
-        "freetogame_profile_url": "https://www.freetogame.com/team-fortress-2"
+        "freetogame_profile_url": "https://www.freetogame.com/team-fortress-2",
+        "isFavorite": false
         },
         {
         "id": 311,
@@ -3833,7 +4127,8 @@
         "publisher": "RedFox Games",
         "developer": "Nimonix",
         "release_date": "2007-08-02",
-        "freetogame_profile_url": "https://www.freetogame.com/rumble-fighter"
+        "freetogame_profile_url": "https://www.freetogame.com/rumble-fighter",
+        "isFavorite": false
         },
         {
         "id": 312,
@@ -3846,7 +4141,8 @@
         "publisher": "T3Fun",
         "developer": "IMC Games Co. Limited",
         "release_date": "2007-07-10",
-        "freetogame_profile_url": "https://www.freetogame.com/granado-espada"
+        "freetogame_profile_url": "https://www.freetogame.com/granado-espada",
+        "isFavorite": false
         },
         {
         "id": 265,
@@ -3859,7 +4155,8 @@
         "publisher": "Battlezone",
         "developer": "JoongWon Games",
         "release_date": "2007-05-09",
-        "freetogame_profile_url": "https://www.freetogame.com/9dragons"
+        "freetogame_profile_url": "https://www.freetogame.com/9dragons",
+        "isFavorite": false
         },
         {
         "id": 15,
@@ -3872,7 +4169,8 @@
         "publisher": "Neowiz Games",
         "developer": "SmileGate",
         "release_date": "2007-05-03",
-        "freetogame_profile_url": "https://www.freetogame.com/crossfire"
+        "freetogame_profile_url": "https://www.freetogame.com/crossfire",
+        "isFavorite": false
         },
         {
         "id": 313,
@@ -3885,7 +4183,8 @@
         "publisher": "Teeworlds Team ",
         "developer": "Teeworlds Team ",
         "release_date": "2007-05-27",
-        "freetogame_profile_url": "https://www.freetogame.com/teeworlds"
+        "freetogame_profile_url": "https://www.freetogame.com/teeworlds",
+        "isFavorite": false
         },
         {
         "id": 337,
@@ -3898,7 +4197,8 @@
         "publisher": "Suba Games",
         "developer": "Trglow Pictures",
         "release_date": "2007-05-17",
-        "freetogame_profile_url": "https://www.freetogame.com/priston-tale"
+        "freetogame_profile_url": "https://www.freetogame.com/priston-tale",
+        "isFavorite": false
         },
         {
         "id": 314,
@@ -3911,7 +4211,8 @@
         "publisher": "Redbana Corporation",
         "developer": "T3 Entertainment",
         "release_date": "2007-04-02",
-        "freetogame_profile_url": "https://www.freetogame.com/audition-online"
+        "freetogame_profile_url": "https://www.freetogame.com/audition-online",
+        "isFavorite": false
         },
         {
         "id": 16,
@@ -3924,7 +4225,8 @@
         "publisher": "Roblox Corporation",
         "developer": "Roblox Corporation",
         "release_date": "2006-12-22",
-        "freetogame_profile_url": "https://www.freetogame.com/roblox"
+        "freetogame_profile_url": "https://www.freetogame.com/roblox",
+        "isFavorite": false
         },
         {
         "id": 315,
@@ -3937,7 +4239,8 @@
         "publisher": "IGG",
         "developer": "Snail Games",
         "release_date": "2006-12-22",
-        "freetogame_profile_url": "https://www.freetogame.com/voyage-century-online"
+        "freetogame_profile_url": "https://www.freetogame.com/voyage-century-online",
+        "isFavorite": false
         },
         {
         "id": 333,
@@ -3950,7 +4253,8 @@
         "publisher": "Gameforge",
         "developer": "Ymir Entertainment",
         "release_date": "2006-12-17",
-        "freetogame_profile_url": "https://www.freetogame.com/metin2"
+        "freetogame_profile_url": "https://www.freetogame.com/metin2",
+        "isFavorite": false
         },
         {
         "id": 317,
@@ -3963,7 +4267,8 @@
         "publisher": "Webzen",
         "developer": "Gala Lab",
         "release_date": "2006-11-03",
-        "freetogame_profile_url": "https://www.freetogame.com/rappelz"
+        "freetogame_profile_url": "https://www.freetogame.com/rappelz",
+        "isFavorite": false
         },
         {
         "id": 320,
@@ -3976,7 +4281,8 @@
         "publisher": "Warner Bros. Interactive Entertainment",
         "developer": "Turbine, Inc.",
         "release_date": "2006-02-28",
-        "freetogame_profile_url": "https://www.freetogame.com/dungeons-dragons-online"
+        "freetogame_profile_url": "https://www.freetogame.com/dungeons-dragons-online",
+        "isFavorite": false
         },
         {
         "id": 321,
@@ -3989,7 +4295,8 @@
         "publisher": "RedFox Games",
         "developer": "CCR Inc.",
         "release_date": "2006-02-21",
-        "freetogame_profile_url": "https://www.freetogame.com/rf-online"
+        "freetogame_profile_url": "https://www.freetogame.com/rf-online",
+        "isFavorite": false
         },
         {
         "id": 323,
@@ -4002,7 +4309,8 @@
         "publisher": "Webzen",
         "developer": "Gala Lab Corp (formerly Aeonsoft)",
         "release_date": "2005-12-25",
-        "freetogame_profile_url": "https://www.freetogame.com/flyff"
+        "freetogame_profile_url": "https://www.freetogame.com/flyff",
+        "isFavorite": false
         },
         {
         "id": 324,
@@ -4015,7 +4323,8 @@
         "publisher": "SubaGames",
         "developer": "SoftStar",
         "release_date": "2005-09-03",
-        "freetogame_profile_url": "https://www.freetogame.com/domo"
+        "freetogame_profile_url": "https://www.freetogame.com/domo",
+        "isFavorite": false
         },
         {
         "id": 325,
@@ -4028,7 +4337,8 @@
         "publisher": "Nexon",
         "developer": "Wizet",
         "release_date": "2005-05-11",
-        "freetogame_profile_url": "https://www.freetogame.com/maplestory"
+        "freetogame_profile_url": "https://www.freetogame.com/maplestory",
+        "isFavorite": false
         },
         {
         "id": 326,
@@ -4041,7 +4351,8 @@
         "publisher": "GamesCampus",
         "developer": "OnNet Co. Ltd.",
         "release_date": "2004-11-30",
-        "freetogame_profile_url": "https://www.freetogame.com/shot-online"
+        "freetogame_profile_url": "https://www.freetogame.com/shot-online",
+        "isFavorite": false
         },
         {
         "id": 327,
@@ -4054,7 +4365,8 @@
         "publisher": "Daybreak Games",
         "developer": "Daybreak Games",
         "release_date": "2004-11-08",
-        "freetogame_profile_url": "https://www.freetogame.com/everquest-2"
+        "freetogame_profile_url": "https://www.freetogame.com/everquest-2",
+        "isFavorite": false
         },
         {
         "id": 328,
@@ -4067,7 +4379,8 @@
         "publisher": "Ankama Games",
         "developer": "Ankama Games",
         "release_date": "2004-09-01",
-        "freetogame_profile_url": "https://www.freetogame.com/dofus"
+        "freetogame_profile_url": "https://www.freetogame.com/dofus",
+        "isFavorite": false
         },
         {
         "id": 190,
@@ -4080,7 +4393,8 @@
         "publisher": "Winch Gate",
         "developer": "Nevrax",
         "release_date": "2004-09-19",
-        "freetogame_profile_url": "https://www.freetogame.com/ryzom"
+        "freetogame_profile_url": "https://www.freetogame.com/ryzom",
+        "isFavorite": false
         },
         {
         "id": 329,
@@ -4093,7 +4407,8 @@
         "publisher": "Inisxoft",
         "developer": "Inisxoft",
         "release_date": "2004-06-11",
-        "freetogame_profile_url": "https://www.freetogame.com/kalonline"
+        "freetogame_profile_url": "https://www.freetogame.com/kalonline",
+        "isFavorite": false
         },
         {
         "id": 330,
@@ -4106,7 +4421,8 @@
         "publisher": "NCSoft",
         "developer": "NCSoft",
         "release_date": "2004-04-27",
-        "freetogame_profile_url": "https://www.freetogame.com/lineage-2"
+        "freetogame_profile_url": "https://www.freetogame.com/lineage-2",
+        "isFavorite": false
         },
         {
         "id": 332,
@@ -4119,7 +4435,8 @@
         "publisher": "L＆K CO., LTD",
         "developer": "L＆K CO., LTD",
         "release_date": "2003-10-06",
-        "freetogame_profile_url": "https://www.freetogame.com/red-stone-online"
+        "freetogame_profile_url": "https://www.freetogame.com/red-stone-online",
+        "isFavorite": false
         },
         {
         "id": 334,
@@ -4132,7 +4449,8 @@
         "publisher": "Webzen",
         "developer": "Webzen",
         "release_date": "2003-10-06",
-        "freetogame_profile_url": "https://www.freetogame.com/mu-online"
+        "freetogame_profile_url": "https://www.freetogame.com/mu-online",
+        "isFavorite": false
         },
         {
         "id": 18,
@@ -4145,7 +4463,8 @@
         "publisher": "Linden Lab",
         "developer": "Linden Lab",
         "release_date": "2003-06-23",
-        "freetogame_profile_url": "https://www.freetogame.com/second-life"
+        "freetogame_profile_url": "https://www.freetogame.com/second-life",
+        "isFavorite": false
         },
         {
         "id": 335,
@@ -4158,7 +4477,8 @@
         "publisher": "Gravity Interactive ",
         "developer": "Gravity Interactive ",
         "release_date": "2003-06-01",
-        "freetogame_profile_url": "https://www.freetogame.com/ragnarok-online"
+        "freetogame_profile_url": "https://www.freetogame.com/ragnarok-online",
+        "isFavorite": false
         },
         {
         "id": 17,
@@ -4171,7 +4491,8 @@
         "publisher": "MindArk",
         "developer": "MindArk",
         "release_date": "2003-01-30",
-        "freetogame_profile_url": "https://www.freetogame.com/entropia-universe"
+        "freetogame_profile_url": "https://www.freetogame.com/entropia-universe",
+        "isFavorite": false
         },
         {
         "id": 336,
@@ -4184,7 +4505,8 @@
         "publisher": "Funcom",
         "developer": "Funcom",
         "release_date": "2001-06-27",
-        "freetogame_profile_url": "https://www.freetogame.com/anarchy-online"
+        "freetogame_profile_url": "https://www.freetogame.com/anarchy-online",
+        "isFavorite": false
         },
         {
         "id": 251,
@@ -4197,7 +4519,8 @@
         "publisher": "Warner Bros. Interactive Entertainment",
         "developer": "Turbine, Inc.",
         "release_date": "2001-04-24",
-        "freetogame_profile_url": "https://www.freetogame.com/lotro"
+        "freetogame_profile_url": "https://www.freetogame.com/lotro",
+        "isFavorite": false
         },
         {
         "id": 339,
@@ -4210,7 +4533,8 @@
         "publisher": "CipSoft",
         "developer": "CipSoft",
         "release_date": "1997-01-07",
-        "freetogame_profile_url": "https://www.freetogame.com/tibia"
+        "freetogame_profile_url": "https://www.freetogame.com/tibia",
+        "isFavorite": false
         }
         ]
         
