@@ -9,6 +9,7 @@ import GameList from './components/GameList.jsx';
 import GameForm from './components/GameForm.jsx';
 import GamePlay from './components/GamePlay.jsx'
 import GameCard from './components/GameCard.jsx';
+import FavoritesList from './components/FavoritesList.jsx';
 
 const Main = () => {
   const routes = createBrowserRouter([
@@ -22,7 +23,13 @@ const Main = () => {
         },
         {
           path: "/",
-          element: <GameList />
+          element: <GameList />,
+          children: [
+                      {
+                        path: "/favorites",
+                        element: <FavoritesList />,
+                      }
+                    ]
         },
         {
           path: "/about",
