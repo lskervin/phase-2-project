@@ -1,23 +1,14 @@
 import React from 'react'
 import { useState } from 'react'
+import { useOutletContext } from 'react-router-dom';
 
-function GenreFilter({handleClick, setGames, games}) {
-  const [favFilter, setFavFilter] = useState(false)
+function GenreFilter({ handleClick}) {
 
-  // function handleFavorites(){
-  //   setFavFilter(!favFilter)
-  //   {favFilter? fetch('http://localhost:3000/games?isFavorite=1').then((res)=>res.json()).then((data)=>setGames(data))}
-  // }
-//   {games.map((game) => (
-//     <GameCard key={game.id} game={game} value={game} onClick={handleGameCardClick} selectedGames={selectedGames} setSelectedGames={setSelectedGames}/>
-// ))}
-//   const genreList = games.map((game) => (game.genre))
-// console.log(genreList)
   return (
     <div className='genre-filter-container'>
       <ul className='genre-list'>
         <li><button onClick={() => handleClick("Favorites")}>Favorites</button></li>
-        <li><button onClick={() => handleClick("All Games")}>All Games</button></li>
+        <li><button onClick={() => handleClick("All Games")} >All Games</button></li>
         <li><button onClick={() => handleClick("Shooter")}>Shooter</button></li>
         <li><button onClick={() => handleClick("Battle Royale")}>Battle Royale</button></li>
         <li><button onClick={() => handleClick("Strategy")}>Strategy</button></li>

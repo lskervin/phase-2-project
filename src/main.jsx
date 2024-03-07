@@ -9,7 +9,7 @@ import GameList from './components/GameList.jsx';
 import GameForm from './components/GameForm.jsx';
 import GamePlay from './components/GamePlay.jsx'
 import GameCard from './components/GameCard.jsx';
-import FavoritesList from './components/FavoritesList.jsx';
+import GenreFilter from './components/GenreFilter.jsx';
 
 const Main = () => {
   const routes = createBrowserRouter([
@@ -24,12 +24,6 @@ const Main = () => {
         {
           path: "/",
           element: <GameList />,
-          children: [
-                      {
-                        path: "/favorites",
-                        element: <FavoritesList />,
-                      }
-                    ]
         },
         {
           path: "/about",
@@ -43,12 +37,18 @@ const Main = () => {
           path: "/gameform",
           element: <GameForm />
         },
-        { path: "/play-game/:id", 
-          element: <GamePlay />
-        }, 
         {
           path: "/gamecard",
-          element: <GameCard />
+          element: <GameCard />,
+          children: [
+                      { path: "/gamecard/play-game/:id", 
+                        element: <GamePlay />
+                      }
+                    ]
+        },
+        {
+          path: "/genrefilter",
+          element: <GenreFilter />
         }
       ],
     },
