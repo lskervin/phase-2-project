@@ -4,6 +4,7 @@ import NavBar from './components/NavBar'
 import { Outlet } from 'react-router-dom'
 import Header from './components/Header'
 import { useState, useEffect } from 'react';
+import GenreFilter from './components/GenreFilter'
 // import Pagination from './components/Pagination'
 
 //paginate or pagination
@@ -22,7 +23,7 @@ function App() {
     fetch('http://localhost:3000/games')
     .then((res)=>res.json())
     .then((data)=>setGames(data))
-  },[])
+  },[<GenreFilter/>])
   
 
 
