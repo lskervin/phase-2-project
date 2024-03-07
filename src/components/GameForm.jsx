@@ -1,32 +1,43 @@
-import React, { useState } from 'react'
+import { useState } from "react";
+import { useOutletContext } from "react-router-dom";
 
 function GameForm() {
-  const [title, setTitle] = useState("")
-  const [thumbnail, setThumbnail] = useState("")
-  const [description, setDescription] = useState("")
-  const [genre, setGenre] = useState("")
+  const { games, setGames } = useOutletContext();
+  const [formData, setFormData] = useState({
+    title: "",
+    thumbnail: "",
+    short_description: "",
+    game_url: "",
+    genre: "Shooter",
+    platform: "",
+    publisher: "",
+    developer: "",
+    release_date: "",
+    freetogame_profile_url: ""
+  });
 
   function handleSubmit(e) {
-    e.preventDefault();
-
-    let newGame = {
-      title, thumbnail, short_description: {description}, genre
-    }
-    console.log(newGame)
-
-    fetch("http://localhost:3000", {
+    e.preventDefault(); 
+    fetch("http://localhost:3000/games", {
       method: "POST",
       headers: {
         "content-type": "application/json",
       },
-      body: JSON.stringify(newGame),
+      body: JSON.stringify(formData),
     })
-    .then(response=>response.json())
-    .then((data)=>console.log(data))
+    .then(response => response.json())
+    .then(data => setGames([...games,data]));
   } 
 
+  function handleChange(event) {
+    setFormData({
+      ...formData,
+      [event.target.name]: event.target.value,
+    });
+  }
+
   return (
-    <div className = "form">
+    <div className="form">
       <header>Add New Game!</header>
       <form onSubmit={handleSubmit}>
         <label>Title:</label>
@@ -34,28 +45,33 @@ function GameForm() {
           className="form-input"
           type="text"
           placeholder="Type title here"
-          onChange={(e)=>{setTitle(e.target.value)}}
-          value={title}  
-        /><label>Image Url:</label>
+          onChange={handleChange}
+          name="title"
+          value={formData.title}  
+        />
+        <label>Image Url:</label>
         <input
           type="text"
           placeholder="Paste image URL here"
-          onChange={(e)=>{setThumbnail(e.target.value)}}
-          value={thumbnail}
+          name="thumbnail"
+          onChange={handleChange}
+          value={formData.thumbnail}
         />
         <label>Description:</label>
         <textarea
           rows="10" 
-          cols="29" 
+          cols="58" 
           placeholder="Write your description here"
-          onChange={(e)=>{setDescription(e.target.value)}}
-          value={description}
+          onChange={handleChange}
+          name="short_description"
+          value={formData.short_description}
         ></textarea>
         <label>Genre:</label>
         <select
           placeholder="Select genre"
-          value={genre}
-          onChange={(e)=>setGenre(e.target.value)}
+          value={formData.genre}
+          onChange={handleChange}
+          name="genre"
         >
           <option>Shooter</option>
           <option>Battle Royale</option>
@@ -74,9 +90,7 @@ function GameForm() {
           type="submit"
         ></input>
       </form>
-      
     </div>
   )
 }
-
 export default GameForm

@@ -10,22 +10,21 @@ import { useState, useEffect } from 'react';
 
 function App() {
   const [games, setGames] = useState([])
-  const [showmenu, setShowMenu] = useState(true)
+  const [showmenu, setShowMenu] = useState(false)
   // const [currentPage, setCurrentPage] = useState(1);
   // const [recordsPerPage] = useState(5);
   // const indexOfLastRecord = currentPage * recordsPerPage;
   // const indexOfFirstRecord = indexOfLastRecord - recordsPerPage;
   // const currentRecords = data.slice(indexOfFirstRecord, indexOfLastRecord);
   // const nPages = Math.ceil(data.length / recordsPerPage)
-
+  // const setGamesList =setGames
   useEffect(()=>{
     fetch('http://localhost:3000/games')
     .then((res)=>res.json())
     .then((data)=>setGames(data))
   },[])
   
-  const gameList = games
-  // const setGamesList =setGames
+
 
   return(
       <div className='container'>
@@ -42,7 +41,7 @@ function App() {
           setCurrentPage={setCurrentPage}
           gameList={gameList}
         /> */}
-          <Outlet context={{gameList}}/>
+          <Outlet context={{games, setGames}}/>
         </main>
       </div>
   )
