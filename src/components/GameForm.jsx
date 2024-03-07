@@ -18,7 +18,6 @@ function GameForm() {
 
   function handleSubmit(e) {
     e.preventDefault(); 
-
     fetch("http://localhost:3000/games", {
       method: "POST",
       headers: {
