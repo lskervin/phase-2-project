@@ -51,6 +51,7 @@ function GameForm() {
         />
         <label>Image Url:</label>
         <input
+          className="form-input"
           type="text"
           placeholder="Paste image URL here"
           name="thumbnail"
@@ -58,16 +59,26 @@ function GameForm() {
           value={formData.thumbnail}
         />
         <label>Description:</label>
-        <textarea
-          rows="10" 
-          cols="58" 
+        <input
+          className="form-input"
+          type="text"
           placeholder="Write your description here"
           onChange={handleChange}
           name="short_description"
           value={formData.short_description}
-        ></textarea>
+        ></input>
+        <label>Game URL:</label>
+        <input
+          className="form-input"
+          type="text"
+          placeholder="Paste game URL here"
+          name="game_url"
+          onChange={handleChange}
+          value={formData.game_url}
+        ></input>
         <label>Genre:</label>
         <select
+          className="form-input"
           placeholder="Select genre"
           value={formData.genre}
           onChange={handleChange}
@@ -85,10 +96,10 @@ function GameForm() {
           <option>Racing</option>
           <option>Card Game</option>
         </select>
-        <input
+        <button
           className="submit-button"
           type="submit"
-        ></input>
+        >Submit</button>
       </form>
     </div>
   )

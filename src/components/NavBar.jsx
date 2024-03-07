@@ -9,16 +9,16 @@ function NavBar() {
     <div className="side-menu">
       <ul>
         <li>
-          <Link to="/">Home</Link>
+          <Link to="/" className="nav-link">Home</Link>
         </li>
         <li>
-          <Link to="/about">About</Link>
+          <Link to="/about" className="nav-link">About</Link>
         </li>
         <li>
-          <Link to="/contact">Contact</Link>
+          <Link to="/contact" className="nav-link">Contact</Link>
         </li>
         <li>
-        <Link to="/gameform">Add a New Game</Link>
+        <Link to="/gameform" className="form-link">Add a New Game</Link>
         </li>
       </ul>
     </div>
