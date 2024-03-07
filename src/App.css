@@ -320,6 +320,7 @@ button:focus {
   border-width: 1px; /* Set border width */
   border-color:blueviolet; /* Set border color */
   margin-top: 10px;
+  font-size: 16px
 
 }
 .genre-filter-container {
@@ -348,6 +349,16 @@ button:focus {
   background-color: #000000;
   color: #f0f0f0;
 }
+
+.genre-button {
+  transition: ease-out 0.3s;
+}
+
+.genre-button:hover {
+  color: greenyellow;
+  box-shadow: inset 0 -100px 0 0 #725AC1;
+}
+
 .game-card{
   margin: 0 0.5rem;
   padding: 0.5rem 0.75rem;

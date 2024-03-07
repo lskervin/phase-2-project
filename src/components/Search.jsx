@@ -11,7 +11,7 @@ function Search({ setSearch, search }) {
       <input 
         style={{
           width: "1000px",
-          height: "20px",
+          height: "40px",
           borderColor: "black",
           padding: "10px",
           color: "black",
