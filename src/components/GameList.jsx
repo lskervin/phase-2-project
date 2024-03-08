@@ -17,14 +17,14 @@ function GameList() {
 
   
 
-    // const handleGameCardClick = (id) => {
-    //     if (selectedGame.includes(id)) {
+    const handleGameCardClick = (id) => {
+        if (selectedGame.includes(id)) {
 
-    //         setSelectedGame(selectedGame.filter((selectedGame) => selectedGame === id));
-    //     }
-    //     // You can perform any other actions related to clicking the game card here
-    //     console.log(selectedGame);
-    // };
+            setSelectedGame(selectedGame.filter((selectedGame) => selectedGame === id));
+        }
+        // You can perform any other actions related to clicking the game card here
+        console.log(selectedGame);
+    };
 
     function handleClick(str){
         setGenre(str)
@@ -49,7 +49,7 @@ function GameList() {
             <header className="game-list-header">{ search.length > 0? 'Search Results:' : genre }:</header>
             <div className="game-list">
                 {filteredGames.map((game) => (
-                    <GameCard key={game.id} isFave={game.isFavorite} game={game} value={game}/>
+                    <GameCard key={game.id} isFave={game.isFavorite} game={game} value={game} onClick={handleGameCardClick}/>
                 ))}
             </div>
             {/* {selectedGames && filteredGames.map((game) => {return (

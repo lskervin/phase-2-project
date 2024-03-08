@@ -5,9 +5,9 @@ import GamePlay from './GamePlay';
 ;
 
 
-function GameCard({game, isFave}) {
+function GameCard({game, isFave, onClick}) {
   const [favorite, setFavorite] = useState(isFave);
-  const [isSelected, setIsSelected] = useState(false);
+//   const [isSelected, setIsSelected] = useState(false);
 //   const [idValue, setIdValue] = useState('')
 
 
@@ -24,14 +24,7 @@ function GameCard({game, isFave}) {
     .then((res)=> res.json())
     .then((data)=>console.log(data))
 };
-// if (isSelected){
-//     const GamePlayfilter = game.filter((item) => {
-//         return (
-//         (genre === "All Games" || game.genre === genre || game.isFavorite === true) && // Filter by genre
-//           game.title.toLowerCase().includes(search.toLowerCase())// Filter by search
-//         );
-//       });
-// }
+
 return (
       
       <div
