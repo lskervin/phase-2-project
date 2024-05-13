@@ -40,11 +40,10 @@ const Main = () => {
         {
           path: "/gamecard",
           element: <GameCard />,
-          children: [
-                      { path: "/gamecard/play-game/:id", 
-                        element: <GamePlay />
-                      }
-                    ]
+        },
+        {
+          path:"/play-game",
+          element: <GamePlay/>
         },
         {
           path: "/genrefilter",
@@ -52,10 +51,6 @@ const Main = () => {
         }
       ],
     },
-    // {
-    //   path: "*", add error component for error messages
-    //   element: <h1>Error</h1>
-    // }
   ]);
 
 return (

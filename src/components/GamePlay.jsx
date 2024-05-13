@@ -1,40 +1,44 @@
 import React from 'react';
-import { Link } from 'react-router-dom';
-import Iframe from 'react-iframe';
+import { useLocation, useNavigate } from 'react-router-dom';
 
-function GamePlay({ game }) {
+function GamePlay() {
+  const location = useLocation();
+  const { state } = location;
+  const { setIsSelected, isSelected, idValue } = state || {};
+  const navigate = useNavigate()
 
-    return (
-        <div className="game-card">
-            <div className='game-container'>
-                <button className='close-game'>
-                    <Link to="/">Home</Link>
-                </button>
-                <h1>GamePlay Component</h1>
-                <div className="game-play-window">
-                <h2>{game.title}</h2>
-                {/* <img src={image} alt="Game Thumbnail" /> */}
-                {/* Render other properties of the game object */}
-                <Iframe
-                    url="http://www.youtube.com/embed/1-xGerv5FOk"
-                    width="550px"
-                    height="550px"
-                    position="absolute"
-                    display="block"
-                    showLoading={true}
-                    loadingPattern='spokes'
-                    showBorder={true}
-                />
-                </div>
+  // Show loading state until idValue is initialized
+  if (!idValue) {
+    return <div>Loading...</div>; // You can replace this with a spinner component
+  }
+
+  return (
+    <div style={{ top: '0%' }} className="game-play-card">
+      <div style={{marginLeft: '100px'}} className='game-play-container'>
+        <h1 style={{marginLeft: '25px'}}>{idValue.title}</h1>
+        <div className="game-play-window" style={{ position: "relative" }}>
+        <div class="card">
+            <img src={idValue.thumbnail}/>
+            <div class="card__content">
+                <p class="card__description">{idValue.short_description}</p>
             </div>
-        </div>      
-            );
-    }
+            </div>
+          {/* Button inside the image */}
+          <button onClick={() => { navigate('/') }} style={{
+            position: "absolute",
+            bottom: "10px",
+            right: "10px",
+            background: "none",
+            border: "none",
+            color: "white",
+            cursor: "pointer",
+          }}>
+            Close
+          </button>
+        </div>
+      </div>
+    </div>
+  );
+}
 
 export default GamePlay;
-
-// style={{
-//     backgroundImage: `url(${game.thumbnail})`,
-//     backgroundSize: "cover",
-//     backgroundPosition: "center",
-// }}

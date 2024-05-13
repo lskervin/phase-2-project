@@ -4,7 +4,6 @@ import { useOutletContext } from 'react-router-dom';
 import GenreFilter from './GenreFilter';
 import { useState } from 'react';
 import Search from './Search';
-import GamePlay from './GamePlay';
 import { Outlet } from 'react-router-dom'
 
 
@@ -12,6 +11,7 @@ function GameList() {
     const [genre, setGenre] = useState('All Games');
     const [search, setSearch] = useState('');
     const [selectedGame, setSelectedGame] = useState([]); // Initialize as null
+ 
 
     const { games, setGames } = useOutletContext();
 
