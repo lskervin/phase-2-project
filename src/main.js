@@ -1,15 +1,15 @@
 import React from 'react'
 import ReactDOM from 'react-dom/client'
-import App from './App.jsx'
+import App from './App.js'
 import './index.css'
 import { createBrowserRouter, RouterProvider} from "react-router-dom";
 import About from "./components/About"
 import Contact from "./components/Contact"
-import GameList from './components/GameList.jsx';
-import GameForm from './components/GameForm.jsx';
-import GamePlay from './components/GamePlay.jsx'
-import GameCard from './components/GameCard.jsx';
-import GenreFilter from './components/GenreFilter.jsx';
+import GameList from './components/GameList.js';
+import GameForm from './components/GameForm.js';
+import GamePlay from './components/GamePlay.js'
+import GameCard from './components/GameCard.js';
+import GenreFilter from './components/GenreFilter.js';
 
 const Main = () => {
   const routes = createBrowserRouter([
